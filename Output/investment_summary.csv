@@ -1,0 +1,1222 @@
+State,City,Region,Year,County,Investment (USD)
+CA,San Francisco,SF Bay Area,2015,San Francisco County,66306951912.26291
+CA,San Francisco,SF Bay Area,2014,San Francisco County,57243164739.0
+NY,New York,New York City,2015,New York County,21421987560.01196
+CA,San Francisco,SF Bay Area,2013,San Francisco County,18126349865.0
+CA,San Francisco,SF Bay Area,2011,San Francisco County,15514736903.0
+NY,New York,New York City,2014,New York County,14837187164.0
+CA,San Francisco,SF Bay Area,2012,San Francisco County,13255025038.0
+IL,Chicago,Chicago,2011,Cook County,10077627990.0
+NY,New York,New York City,2013,New York County,9944360953.0
+MA,Cambridge,Boston,2015,Middlesex County,8276859854.0
+NY,New York,New York City,2011,New York County,7112197723.0
+CA,Mountain View,SF Bay Area,2014,Santa Clara County,6759871571.0
+CA,Palo Alto,SF Bay Area,2014,Santa Clara County,6158300000.0
+MA,Boston,Boston,2015,Suffolk County,6057960036.0
+CA,Palo Alto,SF Bay Area,2015,Santa Clara County,5846474982.0
+CA,Mountain View,SF Bay Area,2015,Santa Clara County,5803542492.0
+CA,Mountain View,SF Bay Area,2013,Santa Clara County,5790534980.0
+CA,Hawthorne,Los Angeles,2015,Los Angeles County,5000000000.0
+CA,San Mateo,SF Bay Area,2015,San Mateo County,4841900016.0
+CA,Redwood City,SF Bay Area,2015,San Mateo County,4325432563.0
+NY,New York,New York City,2012,New York County,4114776548.0
+CA,Redwood City,SF Bay Area,2014,San Mateo County,3601110480.0
+IL,Chicago,Chicago,2015,Cook County,3413900002.0
+CA,Palo Alto,SF Bay Area,2013,Santa Clara County,3349199997.0
+CA,Mountain View,SF Bay Area,2012,Santa Clara County,3276137920.0
+CA,Santa Clara,SF Bay Area,2014,Santa Clara County,2987212720.0
+WA,Seattle,Seattle,2015,King County,2929568991.0
+CA,San Jose,SF Bay Area,2015,Santa Clara County,2866045452.0
+WA,Seattle,Seattle,2014,King County,2766911223.0
+CA,Santa Clara,SF Bay Area,2011,Santa Clara County,2419480139.0
+CA,San Mateo,SF Bay Area,2014,San Mateo County,2414282134.0
+DC,Washington,"Washington, D.C.",2011,District of Columbia County,2328700000.0
+CA,San Diego,San Diego,2015,San Diego County,2283600000.0
+MA,Cambridge,Boston,2012,Middlesex County,2275638796.0
+CA,San Jose,SF Bay Area,2014,Santa Clara County,2260580394.0
+TX,Austin,Austin,2015,Travis County,2251676549.0
+TX,Austin,Austin,2014,Travis County,2176578773.0
+MA,Cambridge,Boston,2011,Middlesex County,2102055182.0
+MA,Cambridge,Boston,2014,Middlesex County,2094632424.0
+CA,Menlo Park,SF Bay Area,2014,San Mateo County,2056250000.0
+MA,Boston,Boston,2014,Suffolk County,2043392831.0
+IL,Chicago,Chicago,2014,Cook County,2008476776.0
+CA,Sunnyvale,SF Bay Area,2014,Santa Clara County,1991981082.0
+CA,Menlo Park,SF Bay Area,2013,San Mateo County,1962251350.0
+CA,Santa Clara,SF Bay Area,2015,Santa Clara County,1953400000.0
+CA,Mountain View,SF Bay Area,2011,Santa Clara County,1951237699.0
+CA,Redwood City,SF Bay Area,2012,San Mateo County,1922200000.0
+CA,Palo Alto,SF Bay Area,2011,Santa Clara County,1894399980.0
+CA,Redwood City,SF Bay Area,2013,San Mateo County,1872322144.0
+CA,Los Angeles,Los Angeles,2015,Los Angeles County,1798258950.0
+CA,Sunnyvale,SF Bay Area,2015,Santa Clara County,1795128320.927731
+MA,Waltham,Boston,2015,Middlesex County,1764000000.0
+CA,San Diego,San Diego,2013,San Diego County,1763900005.0
+WA,Seattle,Seattle,2013,King County,1709878866.3192186
+CA,San Diego,San Diego,2014,San Diego County,1704177627.0
+CA,Redwood City,SF Bay Area,2011,San Mateo County,1695100000.0
+CA,San Mateo,SF Bay Area,2011,San Mateo County,1694367338.0
+MA,Boston,Boston,2012,Suffolk County,1663887754.0
+MA,Boston,Boston,2011,Suffolk County,1661079568.0
+MA,Waltham,Boston,2014,Middlesex County,1651209632.0
+MA,Cambridge,Boston,2013,Middlesex County,1646092337.0
+GA,Atlanta,Atlanta,2015,Fulton County,1643170675.0
+CA,Santa Clara,SF Bay Area,2013,Santa Clara County,1591595472.0
+CA,Santa Monica,Los Angeles,2014,Los Angeles County,1560500000.0
+CA,San Mateo,SF Bay Area,2012,San Mateo County,1545972049.0
+CA,Menlo Park,SF Bay Area,2015,San Mateo County,1541400000.0
+UT,American Fork,Salt Lake City,2014,Utah County,1500000000.0
+CA,San Diego,San Diego,2012,San Diego County,1487785000.0
+CA,Santa Monica,Los Angeles,2015,Los Angeles County,1467900000.0
+CA,Irvine,Anaheim,2015,Orange County,1463410113.0
+MA,Boston,Boston,2013,Suffolk County,1436135010.0
+NJ,Hoboken,Newark,2015,Hudson County,1400000000.0
+CA,Palo Alto,SF Bay Area,2012,Santa Clara County,1392013047.0
+NC,Charlotte,Charlotte,2015,Mecklenburg County,1355500000.0
+CA,Foster City,SF Bay Area,2015,San Mateo County,1352000000.0
+CA,Los Altos,SF Bay Area,2013,Santa Clara County,1337553984.0
+CA,San Diego,San Diego,2011,San Diego County,1272900000.0
+CA,San Jose,SF Bay Area,2011,Santa Clara County,1261859474.0
+MA,Waltham,Boston,2012,Middlesex County,1255400000.0
+UT,Provo,Salt Lake City,2014,Utah County,1254600000.0
+CA,South San Francisco,SF Bay Area,2015,San Mateo County,1249244000.0
+CA,San Mateo,SF Bay Area,2013,San Mateo County,1245742243.0
+CA,Santa Clara,SF Bay Area,2012,Santa Clara County,1208536274.0
+CA,Sunnyvale,SF Bay Area,2011,Santa Clara County,1173466814.0
+CA,San Jose,SF Bay Area,2012,Santa Clara County,1153078644.0
+WA,Bellevue,Seattle,2012,King County,1150500000.0
+CA,San Carlos,SF Bay Area,2015,San Mateo County,1144981260.0
+CA,Pleasanton,SF Bay Area,2015,Alameda County,1142000000.0
+TX,Austin,Austin,2012,Travis County,1121498314.0
+GA,Atlanta,Atlanta,2014,Fulton County,1107603012.0
+CA,Los Altos,SF Bay Area,2011,Santa Clara County,1102000000.0
+PA,Pittsburgh,Pittsburgh,2014,Allegheny County,1084221228.0
+CA,South San Francisco,SF Bay Area,2013,San Mateo County,1032019949.0
+CA,Emeryville,SF Bay Area,2015,Alameda County,1015999995.0
+CA,Irvine,Anaheim,2014,Orange County,989800000.0
+CA,Milpitas,SF Bay Area,2012,Santa Clara County,973039800.0
+CO,Denver,Denver,2014,Denver County,967074991.0
+MD,Rockville,"Washington, D.C.",2015,Montgomery County,952800000.0
+MA,Waltham,Boston,2011,Middlesex County,947025000.0
+CA,Los Altos,SF Bay Area,2012,Santa Clara County,910000000.0
+CA,San Jose,SF Bay Area,2013,Santa Clara County,906526002.0
+UT,Salt Lake City,Salt Lake City,2015,Salt Lake County,880030000.0
+MA,Westborough,Worcester,2015,Worcester County,875000000.0
+TX,Dallas,Dallas,2015,Dallas County,872500000.0
+CA,Los Angeles,Los Angeles,2012,Los Angeles County,864100000.0
+MA,Waltham,Boston,2013,Middlesex County,856500000.0
+CA,Milpitas,SF Bay Area,2015,Santa Clara County,842500000.0
+CA,Los Angeles,Los Angeles,2014,Los Angeles County,831300000.0
+CA,Los Altos,SF Bay Area,2014,Santa Clara County,827050000.0
+CA,South San Francisco,SF Bay Area,2014,San Mateo County,817800000.0
+CA,Carpinteria,Santa Barbara,2015,Santa Barbara County,804000000.0
+CA,Menlo Park,SF Bay Area,2011,San Mateo County,793500000.0
+CA,Milpitas,SF Bay Area,2013,Santa Clara County,783963684.0
+CA,Irvine,Anaheim,2013,Orange County,776000000.0
+TX,Houston,Houston,2014,Harris County,773953116.0
+DC,Washington,"Washington, D.C.",2015,District of Columbia County,764172842.0
+WA,Seattle,Seattle,2011,King County,750469203.0
+CO,Denver,Denver,2015,Denver County,748400000.0
+TX,Austin,Austin,2013,Travis County,748007600.0
+IL,Chicago,Chicago,2013,Cook County,736065790.0
+UT,Provo,Salt Lake City,2015,Utah County,731199848.0
+CA,Sunnyvale,SF Bay Area,2012,Santa Clara County,721549976.0
+PA,Malvern,Philadelphia,2015,Chester County,716500000.0
+TX,Dallas,Dallas,2014,Dallas County,715450728.0
+CA,Pleasanton,SF Bay Area,2014,Alameda County,714184999.0
+WA,Seattle,Seattle,2012,King County,713407964.0
+UT,American Fork,Salt Lake City,2015,Utah County,711511675.0
+CO,Boulder,Denver,2014,Boulder County,705675000.0
+NC,Durham,Raleigh,2011,Durham County,704531360.0
+MA,Lexington,Boston,2013,Middlesex County,701000000.0
+WA,Bellevue,Seattle,2013,King County,686150000.0
+CA,Santa Monica,Los Angeles,2013,Los Angeles County,684900000.0
+CA,Pleasanton,SF Bay Area,2011,Alameda County,673200000.0
+NC,Durham,Raleigh,2015,Durham County,670700000.0
+CA,Menlo Park,SF Bay Area,2012,San Mateo County,668338446.0
+MA,Watertown,Boston,2013,Middlesex County,663603492.0
+IL,Chicago,Chicago,2012,Cook County,662550000.0
+MA,Lexington,Boston,2011,Middlesex County,660700000.0
+CA,Sunnyvale,SF Bay Area,2013,Santa Clara County,660391919.0
+CO,Denver,Denver,2013,Denver County,652567646.0
+TX,Irving,Dallas,2013,Dallas County,648500000.0
+TX,Austin,Austin,2011,Travis County,644774993.0
+CA,Los Angeles,Los Angeles,2011,Los Angeles County,638520000.0
+CA,Santa Barbara,Santa Barbara,2012,Santa Barbara County,622000000.0
+CA,Newark,SF Bay Area,2011,Alameda County,616000000.0
+MA,Chelsea,Boston,2014,Suffolk County,605000000.0
+CA,Santa Barbara,Santa Barbara,2015,Santa Barbara County,603400000.0
+MO,Kansas City,Kansas City,2011,Jackson County,600000000.0
+MA,Burlington,Boston,2014,Middlesex County,598000000.0
+CA,Newark,SF Bay Area,2015,Alameda County,574400000.0
+IL,Skokie,Chicago,2014,Cook County,560000000.0
+PA,Philadelphia,Philadelphia,2014,Philadelphia County,549300000.0
+CA,San Clemente,Anaheim,2015,Orange County,540000000.0
+CO,Boulder,Denver,2011,Boulder County,531600000.0
+CA,Campbell,SF Bay Area,2014,Santa Clara County,528900000.0
+CA,Oakland,SF Bay Area,2015,Alameda County,527000000.0
+CA,Hayward,SF Bay Area,2012,Alameda County,517400000.0
+CO,Boulder,Denver,2015,Boulder County,510000000.0
+OR,Portland,"Portland, Oregon",2013,Multnomah County,504000000.0
+MD,Columbia,Baltimore,2015,Howard County,503500000.0
+MA,Newton,Boston,2014,Middlesex County,502300000.0
+MN,Minneapolis,Minneapolis,2015,Hennepin County,498260304.0
+CA,Fremont,SF Bay Area,2012,Alameda County,496641868.0
+CA,Campbell,SF Bay Area,2012,Santa Clara County,496200000.0
+TX,Coppell,Dallas,2014,Dallas County,495000000.0
+CA,Foster City,SF Bay Area,2013,San Mateo County,480000000.0
+CA,Los Angeles,Los Angeles,2013,Los Angeles County,475200000.0
+GA,Atlanta,Atlanta,2013,Fulton County,474150000.0
+DC,Washington,"Washington, D.C.",2014,District of Columbia County,470000000.0
+MN,Maple Grove,Minneapolis,2014,Hennepin County,456000000.0
+OH,Cleveland,Cleveland,2012,Cuyahoga County,453249024.0
+SC,Greenville,Greenville - Spartanburg,2014,Greenville County,446014200.0
+NC,Durham,Raleigh,2012,Durham County,443000000.0
+CA,Cupertino,SF Bay Area,2012,Santa Clara County,437784044.0
+CA,Oakland,SF Bay Area,2014,Alameda County,437387458.0
+CA,Campbell,SF Bay Area,2013,Santa Clara County,426200000.0
+CA,Oakland,SF Bay Area,2012,Alameda County,424500000.0
+CA,El Segundo,Los Angeles,2014,Los Angeles County,422433443.0
+CA,Santa Rosa,Napa Valley,2012,Sonoma County,420000000.0
+CA,Foster City,SF Bay Area,2011,San Mateo County,418400000.0
+UT,Salt Lake City,Salt Lake City,2014,Salt Lake County,412275001.0
+NJ,Princeton,Newark,2011,Mercer County,410800000.0
+UT,South Jordan,Salt Lake City,2015,Salt Lake County,410000000.0
+CA,Cupertino,SF Bay Area,2011,Santa Clara County,407600000.0
+CA,Lake Forest,Anaheim,2013,Orange County,404999990.0
+MA,Burlington,Boston,2012,Middlesex County,404000000.0
+GA,Atlanta,Atlanta,2011,Fulton County,398300000.0
+NC,Morrisville,Raleigh,2015,Wake County,396000000.0
+CA,Fremont,SF Bay Area,2011,Alameda County,393800000.0
+MN,Plymouth,Minneapolis,2014,Hennepin County,393600000.0
+GA,Atlanta,Atlanta,2012,Fulton County,381590000.0
+CO,Boulder,Denver,2012,Boulder County,379700000.0
+CA,South San Francisco,SF Bay Area,2011,San Mateo County,374078000.0
+CA,Fremont,SF Bay Area,2014,Alameda County,371200000.0
+MA,Watertown,Boston,2015,Middlesex County,368200000.0
+CA,El Segundo,Los Angeles,2012,Los Angeles County,366000000.0
+MA,Woburn,Boston,2015,Middlesex County,363500000.0
+CA,Hayward,SF Bay Area,2015,Alameda County,360500000.0
+OR,Portland,"Portland, Oregon",2014,Multnomah County,360200000.0
+CA,Santa Rosa,Napa Valley,2013,Sonoma County,360000000.0
+MA,Westborough,Worcester,2013,Worcester County,348000000.0
+CT,New Haven,Hartford,2015,New Haven County,339000000.0
+NC,Morrisville,Raleigh,2014,Wake County,336000000.0
+CA,Santa Monica,Los Angeles,2012,Los Angeles County,334676322.0
+CA,Milpitas,SF Bay Area,2014,Santa Clara County,334084571.0
+PA,Pittsburgh,Pittsburgh,2015,Allegheny County,330518036.0
+VA,Arlington,"Washington, D.C.",2014,Arlington County,328500000.0
+FL,Orlando,Orlando,2014,Orange County,328200000.0
+CA,Burlingame,SF Bay Area,2011,San Mateo County,327000000.0
+CA,Irvine,Anaheim,2011,Orange County,324400000.0
+CA,Los Altos,SF Bay Area,2015,Santa Clara County,324000000.0
+OR,Portland,"Portland, Oregon",2015,Multnomah County,319455467.0
+MA,Watertown,Boston,2014,Middlesex County,318000000.0
+CA,Milpitas,SF Bay Area,2011,Santa Clara County,316000000.0
+CO,Denver,Denver,2011,Denver County,315231864.0
+TX,Richardson,Dallas,2011,Dallas County,312000000.0
+CA,Cupertino,SF Bay Area,2013,Santa Clara County,309705636.0
+MA,Framingham,Boston,2014,Middlesex County,309500000.0
+CA,Carpinteria,Santa Barbara,2013,Santa Barbara County,309000000.0
+MA,Lexington,Boston,2012,Middlesex County,308100000.0
+PA,Malvern,Philadelphia,2011,Chester County,303600000.0
+CT,New Haven,Hartford,2014,New Haven County,302500000.0
+MD,Baltimore,Baltimore,2013,Baltimore (city) County,301731069.0
+WA,Bellevue,Seattle,2015,King County,301689356.0
+VA,Blacksburg,Roanoke,2011,Montgomery County,300000000.0
+DE,Wilmington,"Wilmington, Delaware",2013,New Castle County,300000000.0
+UT,American Fork,Salt Lake City,2013,Utah County,300000000.0
+CA,Mill Valley,SF Bay Area,2013,Marin County,300000000.0
+CA,Laguna Hills,Los Angeles,2011,Orange County,298500000.0
+NY,Brooklyn,New York City,2012,Kings County,285850000.0
+GA,Alpharetta,Atlanta,2015,Fulton County,282467000.0
+NC,Durham,Raleigh,2013,Durham County,280100000.0
+CA,Mill Valley,SF Bay Area,2015,Marin County,280000000.0
+CA,Hayward,SF Bay Area,2014,Alameda County,279800000.0
+CA,San Carlos,SF Bay Area,2014,San Mateo County,276900000.0
+DC,Washington,"Washington, D.C.",2013,District of Columbia County,276780124.0
+TX,Coppell,Dallas,2012,Dallas County,276000000.0
+NJ,Hoboken,Newark,2014,Hudson County,275000000.0
+MA,Somerville,Boston,2015,Middlesex County,272521097.0
+CA,Thousand Oaks,Los Angeles,2013,Ventura County,271400000.0
+PA,Malvern,Philadelphia,2012,Chester County,271000000.0
+MD,Germantown,"Washington, D.C.",2011,Montgomery County,270500000.0
+OR,Portland,"Portland, Oregon",2011,Multnomah County,268200000.0
+WA,Bothell,Seattle,2012,King County,266000000.0
+CA,South San Francisco,SF Bay Area,2012,San Mateo County,265700000.0
+CA,Culver City,Los Angeles,2014,Los Angeles County,265000000.0
+CA,Laguna Hills,Los Angeles,2013,Orange County,264000000.0
+MD,Baltimore,Baltimore,2014,Baltimore (city) County,261050000.0
+UT,Salt Lake City,Salt Lake City,2011,Salt Lake County,258419500.0
+OH,Cincinnati,Cincinnati,2012,Hamilton County,252800000.0
+VA,Roanoke,Roanoke,2011,Roanoke (city) County,252000000.0
+AZ,Chandler,Phoenix,2013,Maricopa County,252000000.0
+MA,Woburn,Boston,2014,Middlesex County,250800000.0
+NM,Albuquerque,Albuquerque,2011,Bernalillo County,250460121.0
+DE,Wilmington,"Wilmington, Delaware",2015,New Castle County,250000000.0
+MN,Plymouth,Minneapolis,2011,Hennepin County,247300000.0
+SC,Charleston,"Charleston, South Carolina",2013,Charleston County,246000000.0
+MD,Baltimore,Baltimore,2015,Baltimore (city) County,245780000.0
+CO,Denver,Denver,2012,Denver County,245669647.0
+MA,Marlborough,Boston,2011,Middlesex County,244800000.0
+CA,Burlingame,SF Bay Area,2015,San Mateo County,242500000.0
+NY,Brooklyn,New York City,2014,Kings County,242300000.0
+UT,Salt Lake City,Salt Lake City,2013,Salt Lake County,242250000.0
+CA,Tustin,"Orange County, California",2012,Orange County,241555356.0
+NJ,Princeton,Newark,2012,Mercer County,240000000.0
+MN,Saint Paul,Minneapolis,2012,Ramsey County,240000000.0
+CA,Newark,SF Bay Area,2013,Alameda County,239000000.0
+CA,Oakland,SF Bay Area,2011,Alameda County,236000000.0
+CA,Berkeley,SF Bay Area,2014,Alameda County,235586554.0
+UT,Lehi,Salt Lake City,2015,Utah County,233432483.0
+CA,Pasadena,Los Angeles,2013,Los Angeles County,231089597.0
+TX,Houston,Houston,2012,Harris County,228789577.0
+RI,Providence,Providence,2013,Providence County,228099950.0
+MA,Chelsea,Boston,2013,Suffolk County,228000000.0
+MI,Ann Arbor,Detroit,2014,Washtenaw County,226820000.0
+NC,Durham,Raleigh,2014,Durham County,226749900.0
+MA,Burlington,Boston,2015,Middlesex County,225111022.0
+GA,Kennesaw,Atlanta,2012,Cobb County,225000000.0
+FL,Alachua,Gainesville,2012,Alachua County,225000000.0
+RI,East Providence,Providence,2012,Providence County,224000000.0
+CA,Cupertino,SF Bay Area,2015,Santa Clara County,222500000.0
+MA,Newton,Boston,2011,Middlesex County,222354000.0
+AZ,Chandler,Phoenix,2014,Maricopa County,220000000.0
+CA,Aliso Viejo,Anaheim,2011,Orange County,213600000.0
+SC,Greenville,Greenville - Spartanburg,2011,Greenville County,210000000.0
+CA,Calabasas,Los Angeles,2011,Los Angeles County,208600000.0
+FL,Miami,Miami,2013,Miami-Dade County,207000000.0
+NJ,Bedminster,Newark,2011,Somerset County,206824825.0
+WA,Redmond,Seattle,2013,King County,204200000.0
+MA,Burlington,Boston,2011,Middlesex County,203900000.0
+MD,Stevensville,Baltimore,2013,Queen Anne's County,203000000.0
+MI,Ann Arbor,Detroit,2015,Washtenaw County,202013368.0
+PA,Malvern,Philadelphia,2014,Chester County,200500000.0
+NC,Raleigh,Raleigh,2015,Wake County,199100000.0
+PA,Pittsburgh,Pittsburgh,2012,Allegheny County,198060000.0
+MD,Stevensville,Baltimore,2014,Queen Anne's County,195908147.0
+CA,West Hollywood,Los Angeles,2012,Los Angeles County,195800000.0
+WI,Madison,Madison,2015,Dane County,194616390.0
+IL,Evanston,Chicago,2012,Cook County,190000000.0
+CA,El Segundo,Los Angeles,2011,Los Angeles County,186000000.0
+CA,Saratoga,SF Bay Area,2011,Santa Clara County,186000000.0
+NC,Raleigh,Raleigh,2014,Wake County,185950000.0
+UT,Lehi,Salt Lake City,2014,Utah County,185000000.0
+CA,Campbell,SF Bay Area,2015,Santa Clara County,184500000.0
+MA,Framingham,Boston,2015,Middlesex County,184000000.0
+CO,Boulder,Denver,2013,Boulder County,182731376.0
+CA,Goleta,Santa Barbara,2015,Santa Barbara County,182500000.0
+CA,El Segundo,Los Angeles,2013,Los Angeles County,182250000.0
+MA,Newton,Boston,2012,Middlesex County,181500000.0
+CA,Saratoga,SF Bay Area,2012,Santa Clara County,180000000.0
+CA,Novato,SF Bay Area,2011,Marin County,180000000.0
+CA,Goleta,Santa Barbara,2011,Santa Barbara County,180000000.0
+MI,Plymouth,Detroit,2015,Wayne County,179000000.0
+CA,Los Gatos,SF Bay Area,2014,Santa Clara County,178999994.0
+CA,Davis,Sacramento,2011,Yolo County,177800000.0
+CA,Brisbane,SF Bay Area,2011,San Mateo County,176000000.0
+PA,Pittsburgh,Pittsburgh,2013,Allegheny County,175600000.0
+CA,Emeryville,SF Bay Area,2014,Alameda County,174800000.0
+CA,Campbell,SF Bay Area,2011,Santa Clara County,174103450.0
+OR,Beaverton,"Portland, Oregon",2011,Washington County,174000000.0
+OR,Hillsboro,"Portland, Oregon",2011,Washington County,173500000.0
+CA,San Juan Capistrano,"Orange County, California",2013,Orange County,171000000.0
+RI,Providence,Providence,2014,Providence County,170000000.0
+CA,Belmont,SF Bay Area,2014,San Mateo County,170000000.0
+PA,Philadelphia,Philadelphia,2012,Philadelphia County,169500000.0
+OH,Columbus,"Columbus, Ohio",2014,Franklin County,168800000.0
+CA,Los Gatos,SF Bay Area,2012,Santa Clara County,168150000.0
+CA,Belmont,SF Bay Area,2011,San Mateo County,168000000.0
+IL,Skokie,Chicago,2013,Cook County,167400000.0
+CA,Berkeley,SF Bay Area,2015,Alameda County,165999808.0
+TX,Newark,TX - Other,2015,Wise County,164000000.0
+CA,San Bruno,SF Bay Area,2015,San Mateo County,164000000.0
+CA,Goleta,Santa Barbara,2013,Santa Barbara County,163800000.0
+CA,Irvine,Anaheim,2012,Orange County,163600000.0
+UT,South Jordan,Salt Lake City,2013,Salt Lake County,163500000.0
+MA,Lexington,Boston,2015,Middlesex County,163000000.0
+UT,Provo,Salt Lake City,2012,Utah County,162999999.0
+MD,Hyattsville,MD - Other,2011,Prince George's County,162500000.0
+CA,Pleasanton,SF Bay Area,2012,Alameda County,162000000.0
+OH,Cleveland,Cleveland,2013,Cuyahoga County,161870080.0
+CA,Burlingame,SF Bay Area,2014,San Mateo County,161704354.0
+IL,Skokie,Chicago,2012,Cook County,161500000.0
+MN,Minneapolis,Minneapolis,2013,Hennepin County,161200000.0
+FL,Miami,Miami,2015,Miami-Dade County,160844770.0
+CA,Lucerne Valley,CA - Other,2015,San Bernardino County,160000000.0
+WA,Bellevue,Seattle,2014,King County,158000000.0
+MD,Hyattsville,MD - Other,2012,Prince George's County,156000000.0
+IN,Indianapolis,Indianapolis,2012,Marion County,155640000.0
+AZ,Scottsdale,Phoenix,2014,Maricopa County,155499976.0
+NJ,Whippany,Newark,2012,Morris County,155000000.0
+CA,Goleta,Santa Barbara,2012,Santa Barbara County,155000000.0
+CA,Laguna Hills,Los Angeles,2014,Orange County,155000000.0
+CO,Westminster,Denver,2013,Adams County,154600000.0
+VA,Arlington,"Washington, D.C.",2015,Arlington County,154000000.0
+NE,Lincoln,Omaha,2015,Lancaster County,153550560.0
+CA,Laguna Beach,Anaheim,2015,Orange County,152500000.0
+TX,Dallas,Dallas,2011,Dallas County,150250090.0
+TX,Irving,Dallas,2015,Dallas County,150000000.0
+FL,Hollywood,Ft. Lauderdale,2013,Broward County,150000000.0
+AZ,Tempe,Phoenix,2015,Maricopa County,150000000.0
+CA,Santa Cruz,SF Bay Area,2015,Santa Cruz County,150000000.0
+MD,Lanham,"Washington, D.C.",2014,Prince George's County,150000000.0
+VA,Reston,"Washington, D.C.",2015,Fairfax County,149000000.0
+CA,Culver City,Los Angeles,2013,Los Angeles County,147000000.0
+NY,Brooklyn,New York City,2015,Kings County,144700000.0
+MA,Somerville,Boston,2013,Middlesex County,143399995.0
+MD,Baltimore,Baltimore,2011,Baltimore (city) County,143000000.0
+CA,Burlingame,SF Bay Area,2012,San Mateo County,142700000.0
+CA,Burlingame,SF Bay Area,2013,San Mateo County,141820000.0
+AZ,Tucson,Tucson,2011,Pima County,141800000.0
+MD,Bethesda,"Washington, D.C.",2012,Montgomery County,141000000.0
+NJ,Hackensack,Newark,2014,Bergen County,140000000.0
+PA,Newtown Square,Philadelphia,2015,Delaware County,140000000.0
+CA,Los Gatos,SF Bay Area,2013,Santa Clara County,140000000.0
+SC,Greenville,Greenville - Spartanburg,2012,Greenville County,138000000.0
+MD,Bethesda,"Washington, D.C.",2014,Montgomery County,137200000.0
+VA,Arlington,"Washington, D.C.",2013,Arlington County,136250000.0
+NY,Brooklyn,New York City,2011,Kings County,136000000.0
+MA,Andover,Boston,2015,Essex County,136000000.0
+MA,Lowell,Boston,2014,Middlesex County,136000000.0
+MA,Newton,Boston,2015,Middlesex County,135260000.0
+NJ,Mount Arlington,Newark,2014,Morris County,135000000.0
+UT,Ogden,Salt Lake City,2015,Weber County,135000000.0
+OH,Cincinnati,Cincinnati,2015,Hamilton County,133450000.0
+CA,Pasadena,Los Angeles,2011,Los Angeles County,132500000.0
+TN,Nashville,Nashville,2013,Davidson County,132289988.0
+OH,Beachwood,Cleveland,2013,Cuyahoga County,132000000.0
+CA,Santa Rosa,Napa Valley,2011,Sonoma County,132000000.0
+CA,Glendale,Los Angeles,2011,Los Angeles County,132000000.0
+MA,Danvers,Boston,2015,Essex County,132000000.0
+PA,Philadelphia,Philadelphia,2015,Philadelphia County,131802136.0
+NM,Albuquerque,Albuquerque,2012,Bernalillo County,130300000.0
+FL,Miami,Miami,2012,Miami-Dade County,129000000.0
+MA,Westborough,Worcester,2012,Worcester County,129000000.0
+CA,Camarillo,Santa Barbara,2012,Ventura County,128000000.0
+PA,Pittsburgh,Pittsburgh,2011,Allegheny County,127500000.0
+WI,Madison,Madison,2014,Dane County,126750000.0
+CA,Newport Beach,Anaheim,2015,Orange County,125000000.0
+MD,Gaithersburg,"Washington, D.C.",2014,Montgomery County,125000000.0
+MD,Fulton,Baltimore,2012,Howard County,125000000.0
+OR,Portland,"Portland, Oregon",2012,Multnomah County,124900000.0
+CA,San Carlos,SF Bay Area,2013,San Mateo County,124676443.0
+MN,Minneapolis,Minneapolis,2014,Hennepin County,124000000.0
+VA,Reston,"Washington, D.C.",2014,Fairfax County,122834976.0
+FL,Orlando,Orlando,2012,Orange County,122200000.0
+CA,El Segundo,Los Angeles,2015,Los Angeles County,121000000.0
+CA,Saratoga,SF Bay Area,2013,Santa Clara County,120000000.0
+CA,San Clemente,Anaheim,2014,Orange County,120000000.0
+MN,Eden Prairie,Minneapolis,2015,Hennepin County,120000000.0
+NJ,Hackensack,Newark,2013,Bergen County,119700000.0
+CA,Thousand Oaks,Los Angeles,2012,Ventura County,117500000.0
+UT,Draper,Salt Lake City,2014,Salt Lake County,117101767.0
+MI,Detroit,Detroit,2014,Wayne County,116922152.0
+FL,Miami,Miami,2014,Miami-Dade County,116800000.0
+CA,Emeryville,SF Bay Area,2013,Alameda County,116310000.0
+CO,Lakewood,Denver,2012,Jefferson County,115850000.0
+MN,Minneapolis,Minneapolis,2012,Hennepin County,115400000.0
+TN,Nashville,Nashville,2015,Davidson County,115280264.0
+NH,Nashua,"Manchester, New Hampshire",2015,Hillsborough County,115000000.0
+CA,Hayward,SF Bay Area,2013,Alameda County,114000000.0
+MO,Kansas City,Kansas City,2014,Jackson County,114000000.0
+MI,Ann Arbor,Detroit,2012,Washtenaw County,113049976.0
+CA,Folsom,Sacramento,2011,Sacramento County,112000000.0
+NC,Chapel Hill,Raleigh,2012,Orange County,112000000.0
+MA,Wellesley,Boston,2013,Norfolk County,111000000.0
+NC,Morrisville,Raleigh,2013,Wake County,110102090.0
+VA,Glen Allen,Richmond,2011,Henrico County,109800000.0
+TN,Nashville,Nashville,2011,Davidson County,109470000.0
+NH,Nashua,"Manchester, New Hampshire",2013,Hillsborough County,109125000.0
+CA,Santa Barbara,Santa Barbara,2014,Santa Barbara County,109000000.0
+FL,Winter Park,Orlando,2015,Orange County,108400000.0
+UT,South Jordan,Salt Lake City,2012,Salt Lake County,108000000.0
+TN,Brentwood,Nashville,2013,Williamson County,106500125.0
+KY,California,KY - Other,2015,Campbell County,106000000.0
+TX,Spring,Houston,2014,Harris County,106000000.0
+KS,Kansas City,Kansas City,2011,Wyandotte County,105000000.0
+MD,Glen Burnie,Baltimore,2011,Anne Arundel County,105000000.0
+CA,Aliso Viejo,Anaheim,2014,Orange County,104000000.0
+CA,Aliso Viejo,Anaheim,2012,Orange County,104000000.0
+CA,Carlsbad,San Diego,2014,San Diego County,103381806.0
+OH,Beachwood,Cleveland,2011,Cuyahoga County,103200000.0
+NV,Las Vegas,Las Vegas,2014,Clark County,103000000.0
+MA,Woburn,Boston,2012,Middlesex County,103000000.0
+MD,Gaithersburg,"Washington, D.C.",2012,Montgomery County,102000000.0
+UT,Provo,Salt Lake City,2013,Utah County,101100086.0
+CA,Santa Monica,Los Angeles,2011,Los Angeles County,100902000.0
+CA,Azusa,Ontario - Inland Empire,2011,Los Angeles County,100000000.0
+NJ,Morris Plains,Newark,2014,Morris County,100000000.0
+MD,Columbia,Baltimore,2012,Howard County,100000000.0
+CA,Pasadena,Los Angeles,2014,Los Angeles County,100000000.0
+MN,Minnetonka,Minneapolis,2012,Hennepin County,100000000.0
+MA,Somerville,Boston,2012,Middlesex County,99900000.0
+UT,American Fork,Salt Lake City,2011,Utah County,99000000.0
+UT,Ogden,Salt Lake City,2011,Weber County,99000000.0
+GA,Alpharetta,Atlanta,2012,Fulton County,98002760.0
+IN,Indianapolis,Indianapolis,2015,Marion County,98000000.0
+WA,Bellevue,Seattle,2011,King County,96700000.0
+ID,Boise,Boise,2015,Ada County,96000000.0
+CO,Centennial,Denver,2011,Arapahoe County,95600000.0
+VA,Reston,"Washington, D.C.",2012,Fairfax County,95500000.0
+CT,Orange,Hartford,2011,New Haven County,95000000.0
+CA,Mill Valley,SF Bay Area,2012,Marin County,95000000.0
+CA,Thousand Oaks,Los Angeles,2014,Ventura County,94500000.0
+OH,Cleveland,Cleveland,2011,Cuyahoga County,93600000.0
+FL,Boca Raton,Palm Beaches,2015,Palm Beach County,93500000.0
+PA,Philadelphia,Philadelphia,2013,Philadelphia County,93300000.0
+MI,Kalamazoo,Kalamazoo,2014,Kalamazoo County,93150154.0
+MD,Bethesda,"Washington, D.C.",2011,Montgomery County,93000000.0
+IL,Evanston,Chicago,2011,Cook County,92200000.0
+CA,West Hollywood,Los Angeles,2014,Los Angeles County,92000000.0
+VA,Fairfax,"Washington, D.C.",2013,Fairfax (city) County,92000000.0
+MI,Ann Arbor,Detroit,2013,Washtenaw County,90000000.0
+PA,Plymouth Meeting,Philadelphia,2013,Montgomery County,90000000.0
+UT,Orem,Salt Lake City,2013,Utah County,90000000.0
+NJ,Hackensack,Newark,2011,Bergen County,90000000.0
+CO,Westminster,Denver,2014,Adams County,90000000.0
+ME,Portland,"Portland, Maine",2011,Cumberland County,88000000.0
+CA,San Ramon,SF Bay Area,2013,Contra Costa County,88000000.0
+CT,Shelton,Hartford,2011,Fairfield County,87500000.0
+NC,Wilmington,"Wilmington - Cape Fear, North Carolina",2015,New Hanover County,87000000.0
+CA,Carlsbad,San Diego,2012,San Diego County,86800000.0
+CA,Emeryville,SF Bay Area,2012,Alameda County,85971141.0
+CA,Torrance,Los Angeles,2013,Los Angeles County,85400000.0
+MN,Minneapolis,Minneapolis,2011,Hennepin County,84500000.0
+TN,Knoxville,Knoxville,2012,Knox County,84500000.0
+NH,Nashua,"Manchester, New Hampshire",2012,Hillsborough County,84300000.0
+TN,Knoxville,Knoxville,2015,Knox County,84000000.0
+OR,Ashland,Medford,2011,Jackson County,84000000.0
+GA,Alpharetta,Atlanta,2014,Fulton County,84000000.0
+MA,Woburn,Boston,2013,Middlesex County,83999960.0
+TX,Houston,Houston,2015,Harris County,82654000.0
+CA,Berkeley,SF Bay Area,2012,Alameda County,82200000.0
+CA,Fremont,SF Bay Area,2015,Alameda County,82000000.0
+CA,Culver City,Los Angeles,2012,Los Angeles County,81000000.0
+NJ,Piscataway,Newark,2012,Middlesex County,81000000.0
+TX,San Antonio,San Antonio,2014,Bexar County,80800000.0
+CA,San Bruno,SF Bay Area,2011,San Mateo County,80800000.0
+AZ,Phoenix,Phoenix,2014,Maricopa County,80000000.0
+NC,Cary,Raleigh,2015,Wake County,80000000.0
+VA,Vienna,"Washington, D.C.",2011,Fairfax County,80000000.0
+CA,San Rafael,SF Bay Area,2015,Marin County,80000000.0
+OH,Cincinnati,Cincinnati,2014,Hamilton County,79800000.0
+TN,Nashville,Nashville,2012,Davidson County,78289908.0
+WA,Kirkland,Seattle,2011,King County,78000000.0
+VA,Alexandria,Alexandria,2011,Alexandria (city) County,76787500.0
+CA,Carlsbad,San Diego,2013,San Diego County,76450000.0
+PA,Wayne,Philadelphia,2015,Delaware County,76000000.0
+TX,Dallas,Dallas,2012,Dallas County,75900000.0
+CA,Newark,SF Bay Area,2012,Alameda County,75600000.0
+CT,Norwalk,Hartford,2015,Fairfield County,75000000.0
+MD,Baltimore,Baltimore,2012,Baltimore (city) County,74275000.0
+NY,Brooklyn,New York City,2013,Kings County,74200000.0
+DC,Washington,"Washington, D.C.",2012,District of Columbia County,73100000.0
+OR,Beaverton,"Portland, Oregon",2012,Washington County,73000000.0
+NY,Buffalo,Buffalo,2012,Erie County,72800000.0
+MA,Watertown,Boston,2012,Middlesex County,72600000.0
+NY,Troy,"Albany, New York",2015,Rensselaer County,72000000.0
+CA,West Hollywood,Los Angeles,2015,Los Angeles County,72000000.0
+FL,Wesley Chapel,Tampa,2015,Pasco County,72000000.0
+MA,Lexington,Boston,2014,Middlesex County,71380000.0
+CA,Cupertino,SF Bay Area,2014,Santa Clara County,71000000.0
+RI,Providence,Providence,2012,Providence County,70200000.0
+TX,Irving,Dallas,2011,Dallas County,70000000.0
+FL,Orlando,Orlando,2015,Orange County,70000000.0
+AZ,Scottsdale,Phoenix,2015,Maricopa County,69500000.0
+CA,Portola Valley,SF Bay Area,2015,San Mateo County,69000000.0
+CA,Encinitas,San Diego,2012,San Diego County,68000000.0
+CT,New Haven,Hartford,2013,New Haven County,67200000.0
+FL,Delray Beach,Palm Beaches,2015,Palm Beach County,67193502.0
+TN,Nashville,Nashville,2014,Davidson County,67012663.0
+MA,Maynard,Boston,2013,Middlesex County,67000000.0
+CA,Aliso Viejo,Anaheim,2015,Orange County,66800000.0
+CA,Rancho Cordova,Sacramento,2014,Sacramento County,66800000.0
+CA,San Carlos,SF Bay Area,2011,San Mateo County,66000000.0
+KY,Crestwood,Louisville,2014,Oldham County,66000000.0
+IA,Des Moines,Des Moines,2013,Polk County,66000000.0
+TX,San Antonio,San Antonio,2012,Bexar County,65100000.0
+VA,Herndon,"Washington, D.C.",2015,Fairfax County,65000000.0
+SC,Greenville,Greenville - Spartanburg,2015,Greenville County,65000000.0
+MI,Allen Park,Detroit,2012,Wayne County,65000000.0
+MN,Maple Grove,Minneapolis,2011,Hennepin County,64800000.0
+MD,Bethesda,"Washington, D.C.",2015,Montgomery County,64800000.0
+MD,Rockville,"Washington, D.C.",2013,Montgomery County,63900000.0
+NC,Lexington,Greensboro,2013,Davidson County,63758958.0
+TX,Houston,Houston,2011,Harris County,63073643.0
+GA,Duluth,Atlanta,2015,Gwinnett County,63000000.0
+MA,Woburn,Boston,2011,Middlesex County,63000000.0
+WA,Tukwila,Seattle,2015,King County,63000000.0
+NC,Raleigh,Raleigh,2013,Wake County,62800000.0
+NJ,Jersey City,Newark,2015,Hudson County,62500000.0
+MA,Newton,Boston,2013,Middlesex County,62389889.0
+MD,Lanham,"Washington, D.C.",2013,Prince George's County,62000000.0
+NH,Nashua,"Manchester, New Hampshire",2011,Hillsborough County,62000000.0
+CO,Fort Collins,Fort Collins,2012,Larimer County,62000000.0
+UT,Salt Lake City,Salt Lake City,2012,Salt Lake County,61500000.0
+ME,Portland,"Portland, Maine",2015,Cumberland County,61500000.0
+AZ,Scottsdale,Phoenix,2013,Maricopa County,61300000.0
+NC,Morrisville,Raleigh,2011,Wake County,61000000.0
+CA,Hawthorne,Los Angeles,2012,Los Angeles County,60000000.0
+NY,Oneonta,"Albany, New York",2013,Otsego County,60000000.0
+CT,Darien,Hartford,2015,Fairfield County,60000000.0
+NJ,Mount Arlington,Newark,2011,Morris County,60000000.0
+CA,Millbrae,SF Bay Area,2015,San Mateo County,60000000.0
+CA,Santa Rosa,Napa Valley,2014,Sonoma County,60000000.0
+NJ,Monmouth Junction,Newark,2014,Middlesex County,60000000.0
+CA,Ventura,Santa Barbara,2014,Ventura County,60000000.0
+CA,Dublin,SF Bay Area,2011,Alameda County,60000000.0
+GA,Duluth,Atlanta,2013,Gwinnett County,60000000.0
+NC,Charlotte,Charlotte,2014,Mecklenburg County,58900000.0
+MA,Groton,Worcester,2013,Middlesex County,58750000.0
+VA,Reston,"Washington, D.C.",2013,Fairfax County,58600000.0
+OH,Columbus,"Columbus, Ohio",2015,Franklin County,58237046.0
+PA,Wayne,Philadelphia,2014,Delaware County,58100000.0
+CA,San Carlos,SF Bay Area,2012,San Mateo County,56500000.0
+NH,Manchester,"Manchester, New Hampshire",2012,Hillsborough County,56000000.0
+CA,Berkeley,SF Bay Area,2013,Alameda County,55672672.0
+FL,Melbourne Beach,Florida's Space Coast,2011,Brevard County,55000000.0
+NM,Albuquerque,Albuquerque,2015,Bernalillo County,54600000.0
+NH,Hudson,"Manchester, New Hampshire",2015,Hillsborough County,54000000.0
+MA,Burlington,Boston,2013,Middlesex County,53600000.0
+CA,San Bruno,SF Bay Area,2012,San Mateo County,53200000.0
+PA,Philadelphia,Philadelphia,2011,Philadelphia County,53080000.0
+CA,Fremont,SF Bay Area,2013,Alameda County,53000000.0
+MI,Kalamazoo,Kalamazoo,2012,Kalamazoo County,52400000.0
+MA,Westborough,Worcester,2011,Worcester County,52000000.0
+NC,Charlotte,Charlotte,2013,Mecklenburg County,52000000.0
+MN,Saint Paul,Minneapolis,2015,Ramsey County,51583244.0
+CO,Lafayette,Denver,2014,Boulder County,51400000.0
+NC,Raleigh,Raleigh,2012,Wake County,51000000.0
+FL,Sarasota,Sarasota - Bradenton,2015,Sarasota County,51000000.0
+IA,Ames,Des Moines,2012,Story County,51000000.0
+OH,Mason,Cincinnati,2012,Warren County,50000000.0
+CA,Brisbane,SF Bay Area,2013,San Mateo County,50000000.0
+NH,Nashua,"Manchester, New Hampshire",2014,Hillsborough County,50000000.0
+NJ,Trenton,Trenton,2015,Mercer County,50000000.0
+CA,Santa Barbara,Santa Barbara,2013,Santa Barbara County,49500000.0
+CA,Culver City,Los Angeles,2015,Los Angeles County,49500000.0
+OH,Cincinnati,Cincinnati,2013,Hamilton County,48490000.0
+UT,South Jordan,Salt Lake City,2011,Salt Lake County,48000000.0
+NY,Troy,"Albany, New York",2013,Rensselaer County,48000000.0
+OH,Columbus,"Columbus, Ohio",2013,Franklin County,48000000.0
+MA,Wellesley,Boston,2012,Norfolk County,48000000.0
+NH,Lebanon,"Manchester, New Hampshire",2015,Grafton County,48000000.0
+MA,Watertown,Boston,2011,Middlesex County,47250000.0
+NV,Las Vegas,Las Vegas,2013,Clark County,47000000.0
+OH,Cleveland,Cleveland,2014,Cuyahoga County,46500000.0
+CA,Saratoga,SF Bay Area,2015,Santa Clara County,46250000.0
+NY,Huntington Station,Long Island,2011,Suffolk County,46000000.0
+FL,Miami,Miami,2011,Miami-Dade County,45513440.0
+NJ,Princeton,Newark,2015,Mercer County,45500000.0
+CA,Westlake Village,Los Angeles,2015,Los Angeles County,45500000.0
+NV,Reno,Reno - Sparks,2015,Washoe County,45000000.0
+CA,San Clemente,Anaheim,2012,Orange County,45000000.0
+MD,Columbia,Baltimore,2014,Howard County,45000000.0
+CA,Scotts Valley,SF Bay Area,2015,Santa Cruz County,45000000.0
+CA,Millbrae,SF Bay Area,2013,San Mateo County,45000000.0
+IL,Evanston,Chicago,2014,Cook County,44568236.0
+CO,Louisville,Denver,2011,Boulder County,44500000.0
+TN,Chattanooga,Chattanooga,2014,Hamilton County,44440000.0
+AZ,Scottsdale,Phoenix,2012,Maricopa County,43750000.0
+WI,Madison,Madison,2012,Dane County,43000000.0
+TX,Houston,Houston,2013,Harris County,42700000.0
+NY,Oneonta,"Albany, New York",2011,Otsego County,42000000.0
+NY,Lisle,NY - Other,2013,Broome County,42000000.0
+UT,Midvale,Salt Lake City,2015,Salt Lake County,42000000.0
+VA,Leesburg,"Washington, D.C.",2015,Loudoun County,41200000.0
+OH,Mason,Cincinnati,2011,Warren County,41000000.0
+IL,Schaumburg,Chicago,2013,Cook County,41000000.0
+MA,Marlborough,Boston,2014,Middlesex County,41000000.0
+MA,Dedham,Boston,2012,Norfolk County,40800000.0
+SC,Charleston,"Charleston, South Carolina",2014,Charleston County,40200000.0
+MD,Bethesda,"Washington, D.C.",2013,Montgomery County,40000000.0
+MA,Chelsea,Boston,2011,Suffolk County,40000000.0
+CO,Littleton,Denver,2012,Arapahoe County,40000000.0
+UT,American Fork,Salt Lake City,2012,Utah County,40000000.0
+NH,Manchester,"Manchester, New Hampshire",2014,Hillsborough County,40000000.0
+MN,Maple Grove,Minneapolis,2015,Hennepin County,40000000.0
+TX,San Antonio,San Antonio,2015,Bexar County,40000000.0
+CA,Solana Beach,San Diego,2015,San Diego County,40000000.0
+TX,Dallas,Dallas,2013,Dallas County,39720000.0
+CA,Costa Mesa,Anaheim,2015,Orange County,39399996.0
+CA,Hayward,SF Bay Area,2011,Alameda County,39200000.0
+VA,Herndon,"Washington, D.C.",2012,Fairfax County,38996000.0
+IA,Des Moines,Des Moines,2014,Polk County,38800000.0
+CA,Glendale,Los Angeles,2014,Los Angeles County,38100000.0
+NY,Buffalo,Buffalo,2011,Erie County,37800000.0
+IL,Oak Park,Chicago,2014,Cook County,37500000.0
+CT,Orange,Hartford,2012,New Haven County,37500000.0
+TX,Plano,Dallas,2013,Collin County,36800000.0
+MD,Frederick,Hagerstown,2014,Frederick County,36700000.0
+NM,Albuquerque,Albuquerque,2013,Bernalillo County,36300000.0
+NY,Stony Brook,Long Island,2012,Suffolk County,36000000.0
+IL,Deerfield,Chicago,2015,Lake County,36000000.0
+CA,Mill Valley,SF Bay Area,2011,Marin County,36000000.0
+FL,Sarasota,Sarasota - Bradenton,2014,Sarasota County,36000000.0
+GA,Alpharetta,Atlanta,2013,Fulton County,35800000.0
+TN,Brentwood,Nashville,2015,Williamson County,35174780.0
+FL,Fort Lauderdale,Ft. Lauderdale,2013,Broward County,35000000.0
+PA,Wayne,Philadelphia,2012,Delaware County,34800000.0
+PA,Fort Washington,Philadelphia,2011,Montgomery County,34500000.0
+NY,White Plains,New York City,2013,Westchester County,34500000.0
+NM,Albuquerque,Albuquerque,2014,Bernalillo County,34500000.0
+WI,Madison,Madison,2011,Dane County,34200000.0
+PA,Conshohocken,Philadelphia,2011,Montgomery County,34100000.0
+TX,College Station,Austin,2013,Brazos County,34000000.0
+NJ,Monmouth Junction,Newark,2011,Middlesex County,34000000.0
+MI,Livonia,Detroit,2011,Wayne County,34000000.0
+VA,Vienna,"Washington, D.C.",2013,Fairfax County,34000000.0
+PA,Audubon,Philadelphia,2013,Montgomery County,33600000.0
+CA,Oakland,SF Bay Area,2013,Alameda County,33520000.0
+CA,Alameda,SF Bay Area,2011,Alameda County,33507408.0
+NY,Troy,"Albany, New York",2011,Rensselaer County,33000000.0
+MA,Needham,Boston,2013,Norfolk County,33000000.0
+NC,Wilmington,"Wilmington - Cape Fear, North Carolina",2014,New Hanover County,32999991.0
+CA,West Hollywood,Los Angeles,2013,Los Angeles County,32537704.0
+MD,Fulton,Baltimore,2015,Howard County,32500000.0
+MN,Plymouth,Minneapolis,2012,Hennepin County,32500000.0
+AZ,Scottsdale,Phoenix,2011,Maricopa County,32399988.0
+MA,Andover,Boston,2013,Essex County,32210508.0
+VA,Reston,"Washington, D.C.",2011,Fairfax County,32100000.0
+SC,Sullivans Island,"Charleston, South Carolina",2014,Charleston County,32000000.0
+CA,Larkspur,SF Bay Area,2012,Marin County,32000000.0
+TX,Fort Worth,Dallas,2013,Tarrant County,32000000.0
+NC,Tarboro,Raleigh,2012,Edgecombe County,32000000.0
+CA,Del Mar,San Diego,2015,San Diego County,32000000.0
+CA,Santa Cruz,SF Bay Area,2013,Santa Cruz County,32000000.0
+TX,Irving,Dallas,2014,Dallas County,31600000.0
+NY,Manhattan,New York City,2015,New York County,31500000.0
+CO,Wheat Ridge,Denver,2013,Jefferson County,31500000.0
+VA,Herndon,"Washington, D.C.",2014,Fairfax County,31225872.0
+MA,Groton,Worcester,2011,Middlesex County,31200000.0
+WA,Kirkland,Seattle,2014,King County,31000000.0
+WA,Redmond,Seattle,2014,King County,31000000.0
+TX,Grand Prairie,Dallas,2014,Dallas County,31000000.0
+CA,Alameda,SF Bay Area,2012,Alameda County,30671080.0
+CA,Davis,Sacramento,2015,Yolo County,30400000.0
+CA,Los Gatos,SF Bay Area,2015,Santa Clara County,30100000.0
+WI,Milwaukee,Milwaukee,2011,Milwaukee County,30100000.0
+OR,Beaverton,"Portland, Oregon",2013,Washington County,30076071.0
+MN,Saint Paul,Minneapolis,2011,Ramsey County,30058608.0
+CA,Alameda,SF Bay Area,2013,Alameda County,30000000.0
+CA,San Clemente,Anaheim,2011,Orange County,30000000.0
+CA,Carpinteria,Santa Barbara,2014,Santa Barbara County,30000000.0
+LA,Baton Rouge,Baton Rouge,2011,East Baton Rouge County,30000000.0
+MA,Framingham,Boston,2012,Middlesex County,30000000.0
+CA,Davis,Sacramento,2014,Yolo County,30000000.0
+CA,Brisbane,SF Bay Area,2015,San Mateo County,30000000.0
+MN,Mendota,MN - Other,2014,Dakota County,30000000.0
+FL,Fort Lauderdale,Ft. Lauderdale,2012,Broward County,30000000.0
+CA,Roseville,Sacramento,2014,Placer County,30000000.0
+CA,Sebastopol,Napa Valley,2015,Sonoma County,30000000.0
+CA,Poway,San Diego,2014,San Diego County,30000000.0
+CA,Solana Beach,San Diego,2011,San Diego County,30000000.0
+KS,Kansas City,Kansas City,2014,Wyandotte County,30000000.0
+MI,Detroit,Detroit,2013,Wayne County,29975011.0
+TN,Brentwood,Nashville,2014,Williamson County,29600016.0
+CA,Carlsbad,San Diego,2011,San Diego County,29200000.0
+SC,Charleston,"Charleston, South Carolina",2011,Charleston County,28800000.0
+WI,Madison,Madison,2013,Dane County,28575000.0
+NY,Rochester,"Rochester, New York",2015,Monroe County,28525000.0
+CA,Mojave,Bakersfield,2014,Kern County,28400000.0
+MN,Saint Paul,Minneapolis,2014,Ramsey County,28235308.0
+IL,Highland Park,Chicago,2015,Lake County,28000000.0
+MA,Wakefield,Boston,2014,Middlesex County,28000000.0
+ND,Grand Forks,Fargo,2013,Grand Forks County,28000000.0
+TN,Brentwood,Nashville,2012,Williamson County,27900000.0
+CA,Laguna Hills,Los Angeles,2012,Orange County,27600000.0
+CA,Newport Beach,Anaheim,2011,Orange County,27500000.0
+MD,Frederick,Hagerstown,2012,Frederick County,27500000.0
+CA,Newport Beach,Anaheim,2014,Orange County,27320000.0
+MI,Ann Arbor,Detroit,2011,Washtenaw County,27300000.0
+CO,Englewood,Denver,2015,Arapahoe County,27000000.0
+RI,Providence,Providence,2011,Providence County,27000000.0
+PA,Conshohocken,Philadelphia,2013,Montgomery County,27000000.0
+OH,Independence,Cincinnati,2015,Cuyahoga County,26800000.0
+MD,Annapolis,Baltimore,2012,Anne Arundel County,26594895.0
+FL,Lake Mary,Orlando,2011,Seminole County,26400000.0
+NY,Madison,NY - Other,2014,Madison County,26400000.0
+CA,West Hollywood,Los Angeles,2011,Los Angeles County,26200000.0
+MT,Missoula,Missoula,2014,Missoula County,26000000.0
+FL,Orlando,Orlando,2013,Orange County,25900000.0
+CA,San Ramon,SF Bay Area,2011,Contra Costa County,25800000.0
+CO,Broomfield,Denver,2012,Broomfield County,25750000.0
+TX,Richardson,Dallas,2013,Dallas County,25300000.0
+MA,Wellesley,Boston,2011,Norfolk County,25200000.0
+CO,Fort Collins,Fort Collins,2015,Larimer County,25000000.0
+IL,Northbrook,Chicago,2011,Cook County,25000000.0
+NC,Raleigh,Raleigh,2011,Wake County,25000000.0
+CA,Saratoga,SF Bay Area,2014,Santa Clara County,25000000.0
+CA,San Leandro,SF Bay Area,2014,Alameda County,25000000.0
+CT,Norwalk,Hartford,2013,Fairfield County,25000000.0
+MD,Chevy Chase,"Washington, D.C.",2012,Montgomery County,25000000.0
+MN,Rockville,MN - Other,2014,Stearns County,25000000.0
+NJ,Trenton,Trenton,2012,Mercer County,25000000.0
+IL,Evanston,Chicago,2015,Cook County,24698033.0
+MD,Rockville,"Washington, D.C.",2014,Montgomery County,24350000.0
+NH,Manchester,"Manchester, New Hampshire",2013,Hillsborough County,24300018.0
+MI,Grand Rapids,Grand Rapids,2014,Kent County,24000000.0
+CT,Stamford,Hartford,2014,Fairfield County,24000000.0
+NY,Ithaca,Elmira,2013,Tompkins County,24000000.0
+MA,Lowell,Boston,2015,Middlesex County,24000000.0
+MA,Needham,Boston,2012,Norfolk County,24000000.0
+OH,Columbus,"Columbus, Ohio",2011,Franklin County,24000000.0
+WA,Spokane,Spokane,2011,Spokane County,24000000.0
+CA,Costa Mesa,Anaheim,2014,Orange County,24000000.0
+CA,Lafayette,SF Bay Area,2015,Contra Costa County,24000000.0
+MO,Fremont,MO - Other,2013,Carter County,24000000.0
+NY,New City,New York City,2014,Rockland County,24000000.0
+MT,Toston,Helena,2012,Broadwater County,24000000.0
+SD,Sioux Falls,Sioux Falls,2013,Minnehaha County,23800000.0
+NC,Morrisville,Raleigh,2012,Wake County,23600000.0
+TX,Friendswood,Houston,2015,Galveston County,23400000.0
+MD,Lanham,"Washington, D.C.",2015,Prince George's County,23100000.0
+CT,Stamford,Hartford,2012,Fairfield County,23000000.0
+OK,Oklahoma City,Oklahoma City,2012,Oklahoma County,23000000.0
+ID,Boise,Boise,2011,Ada County,22990032.0
+MD,Jessup,Baltimore,2011,Anne Arundel County,22780000.0
+OH,Cleveland,Cleveland,2015,Cuyahoga County,22500000.0
+PA,Plymouth Meeting,Philadelphia,2015,Montgomery County,22500000.0
+CA,Sacramento,Sacramento,2011,Sacramento County,22500000.0
+WA,Issaquah,Seattle,2015,King County,22000000.0
+NV,Las Vegas,Las Vegas,2011,Clark County,22000000.0
+NC,Chapel Hill,Raleigh,2015,Orange County,21900000.0
+CA,San Bruno,SF Bay Area,2014,San Mateo County,21480974.0
+AZ,Mesa,Phoenix,2011,Maricopa County,21000000.0
+VA,Sterling,"Washington, D.C.",2015,Loudoun County,21000000.0
+PA,Ambler,Philadelphia,2014,Montgomery County,21000000.0
+FL,Fort Lauderdale,Ft. Lauderdale,2011,Broward County,21000000.0
+FL,Coral Gables,Miami,2011,Miami-Dade County,21000000.0
+NJ,New Brunswick,Newark,2012,Middlesex County,21000000.0
+MA,Danvers,Boston,2013,Essex County,21000000.0
+AZ,Tempe,Phoenix,2013,Maricopa County,21000000.0
+CA,Culver City,Los Angeles,2011,Los Angeles County,20900000.0
+CA,California City,Bakersfield,2015,Kern County,20400000.0
+CA,Millbrae,SF Bay Area,2012,San Mateo County,20400000.0
+MD,Hyattsville,MD - Other,2013,Prince George's County,20400000.0
+CA,Burbank,Los Angeles,2014,Los Angeles County,20300000.0
+UT,Orem,Salt Lake City,2014,Utah County,20190000.0
+NM,Los Alamos,Albuquerque,2015,Los Alamos County,20000000.0
+CA,Calabasas,Los Angeles,2015,Los Angeles County,20000000.0
+AR,Fayetteville,Fayetteville,2012,Washington County,20000000.0
+NY,Madison,NY - Other,2011,Madison County,20000000.0
+AL,Birmingham,Birmingham,2015,Jefferson County,20000000.0
+FL,Jacksonville,Jacksonville,2011,Duval County,20000000.0
+IA,Des Moines,Des Moines,2012,Polk County,20000000.0
+SC,Sullivans Island,"Charleston, South Carolina",2013,Charleston County,20000000.0
+FL,Orlando,Orlando,2011,Orange County,20000000.0
+UT,Midvale,Salt Lake City,2014,Salt Lake County,20000000.0
+CA,Scotts Valley,SF Bay Area,2013,Santa Cruz County,20000000.0
+FL,Lakeland,Tampa,2013,Polk County,20000000.0
+MA,Medford,Boston,2012,Middlesex County,20000000.0
+CA,Manhattan Beach,Los Angeles,2013,Los Angeles County,20000000.0
+NC,Cary,Raleigh,2012,Wake County,19800000.0
+CA,Dublin,SF Bay Area,2014,Alameda County,19800000.0
+MA,Framingham,Boston,2011,Middlesex County,19500000.0
+CA,Pasadena,Los Angeles,2015,Los Angeles County,19500000.0
+CA,Berkeley,SF Bay Area,2011,Alameda County,19250000.0
+CT,Norwalk,Hartford,2011,Fairfield County,19200000.0
+WA,Kirkland,Seattle,2012,King County,18900000.0
+WI,Middleton,Madison,2012,Dane County,18600000.0
+AZ,Chandler,Phoenix,2015,Maricopa County,18400000.0
+MI,Grand Rapids,Grand Rapids,2015,Kent County,18400000.0
+CO,Aurora,Denver,2015,Adams County,18400000.0
+IN,Indianapolis,Indianapolis,2011,Marion County,18200000.0
+NC,Charlotte,Charlotte,2012,Mecklenburg County,18100000.0
+CA,Alameda,SF Bay Area,2014,Alameda County,18000000.0
+CA,Napa,Napa Valley,2013,Napa County,18000000.0
+TX,Richardson,Dallas,2015,Dallas County,18000000.0
+CA,Glendale,Los Angeles,2015,Los Angeles County,18000000.0
+CA,San Juan Capistrano,"Orange County, California",2011,Orange County,18000000.0
+CA,Los Gatos,SF Bay Area,2011,Santa Clara County,18000000.0
+CA,Belmont,SF Bay Area,2013,San Mateo County,17900000.0
+NC,Greenville,"Greenville, North Carolina",2014,Pitt County,17848804.0
+NE,Ewing,NE - Other,2012,Holt County,17500000.0
+NJ,Morristown,Newark,2013,Morris County,17500000.0
+OH,Willoughby,Cleveland,2012,Lake County,17500000.0
+VT,Burlington,Montpelier,2014,Chittenden County,17250000.0
+MD,Silver Spring,"Washington, D.C.",2013,Montgomery County,17200000.0
+CA,Manhattan Beach,Los Angeles,2015,Los Angeles County,17000000.0
+OH,Dayton,Dayton,2015,Montgomery County,17000000.0
+TX,Georgetown,Austin,2013,Williamson County,17000000.0
+NE,Lincoln,Omaha,2014,Lancaster County,16900000.0
+MI,Detroit,Detroit,2015,Wayne County,16800000.0
+NJ,Morristown,Newark,2014,Morris County,16750000.0
+VA,Charlottesville,"Washington, D.C.",2013,Charlottesville (city) County,16500000.0
+FL,Gainesville,Gainesville,2012,Alachua County,16500000.0
+CO,Englewood,Denver,2013,Arapahoe County,16500000.0
+WI,Delafield,Milwaukee,2012,Waukesha County,16000000.0
+AL,Huntsville,Huntsville,2014,Madison County,16000000.0
+MA,Dedham,Boston,2013,Norfolk County,16000000.0
+CO,Fort Collins,Fort Collins,2011,Larimer County,16000000.0
+KS,Leawood,Kansas City,2015,Johnson County,16000000.0
+TN,Franklin,Nashville,2015,Williamson County,16000000.0
+MD,Gaithersburg,"Washington, D.C.",2011,Montgomery County,16000000.0
+PA,Scranton,Scranton,2012,Lackawanna County,16000000.0
+OR,Beaverton,"Portland, Oregon",2015,Washington County,16000000.0
+CT,Norwalk,Hartford,2012,Fairfield County,15500000.0
+VA,Ashburn,"Washington, D.C.",2014,Loudoun County,15300000.0
+CA,Beverly Hills,Los Angeles,2013,Los Angeles County,15200000.0
+CA,Novato,SF Bay Area,2012,Marin County,15100000.0
+CT,Westport,Hartford,2013,Fairfield County,15000000.0
+FL,Boca Raton,Palm Beaches,2014,Palm Beach County,15000000.0
+IL,Lake Forest,Chicago,2012,Lake County,15000000.0
+ID,Eagle,ID - Other,2015,Ada County,15000000.0
+CO,Broomfield,Denver,2013,Broomfield County,15000000.0
+VT,Burlington,Montpelier,2015,Chittenden County,15000000.0
+AZ,Tucson,Tucson,2015,Pima County,15000000.0
+TX,Addison,Dallas,2011,Dallas County,15000000.0
+CA,Brentwood,SF Bay Area,2013,Contra Costa County,15000000.0
+NJ,Piscataway,Newark,2011,Middlesex County,15000000.0
+MN,Minnetonka,Minneapolis,2015,Hennepin County,15000000.0
+CA,Sausalito,SF Bay Area,2015,Marin County,15000000.0
+CA,Stockton,CA - Other,2014,San Joaquin County,15000000.0
+CA,Richmond,SF Bay Area,2015,Contra Costa County,15000000.0
+OH,Broadview Heights,Cleveland,2011,Cuyahoga County,14701503.0
+OR,Bend,Eugene,2012,Deschutes County,14700000.0
+KS,Overland Park,Kansas City,2014,Johnson County,14600000.0
+TX,Frisco,Dallas,2012,Collin County,14500000.0
+CA,California City,Bakersfield,2011,Kern County,14500000.0
+WA,Sammamish,Seattle,2014,King County,14500000.0
+IL,Champaign,"Springfield, Illinois",2015,Champaign County,14429998.0
+PA,Hummelstown,Harrisburg,2013,Dauphin County,14400000.0
+CT,New Haven,Hartford,2012,New Haven County,14220000.0
+CA,San Rafael,SF Bay Area,2011,Marin County,14000000.0
+UT,Draper,Salt Lake City,2011,Salt Lake County,14000000.0
+PA,Sewickley,Pittsburgh,2015,Allegheny County,14000000.0
+CA,Carlsbad,San Diego,2015,San Diego County,14000000.0
+SC,Charleston,"Charleston, South Carolina",2012,Charleston County,14000000.0
+FL,Boca Raton,Palm Beaches,2013,Palm Beach County,14000000.0
+MI,Oxford,Detroit,2012,Oakland County,14000000.0
+VA,Charlottesville,"Washington, D.C.",2015,Charlottesville (city) County,14000000.0
+CO,Golden,Denver,2014,Jefferson County,14000000.0
+CA,Beverly Hills,Los Angeles,2015,Los Angeles County,14000000.0
+MA,Medford,Boston,2013,Middlesex County,14000000.0
+CA,Newark,SF Bay Area,2014,Alameda County,14000000.0
+UT,Lindon,Salt Lake City,2013,Utah County,13999996.0
+OH,Dublin,"Columbus, Ohio",2015,Franklin County,13953060.0
+WA,Kirkland,Seattle,2013,King County,13900000.0
+TX,Plano,Dallas,2014,Collin County,13800000.0
+IN,Indianapolis,Indianapolis,2014,Marion County,13500000.0
+CA,Solana Beach,San Diego,2013,San Diego County,13500000.0
+NY,White Plains,New York City,2011,Westchester County,13000000.0
+OR,Ashland,Medford,2012,Jackson County,13000000.0
+CO,Colorado Springs,Colorado Springs,2015,El Paso County,13000000.0
+KS,Overland Park,Kansas City,2012,Johnson County,12800000.0
+PA,Malvern,Philadelphia,2013,Chester County,12600000.0
+WA,Redmond,Seattle,2011,King County,12564658.0
+CA,Belmont,SF Bay Area,2012,San Mateo County,12500000.0
+CA,Lucerne Valley,CA - Other,2014,San Bernardino County,12500000.0
+VA,Arlington,"Washington, D.C.",2012,Arlington County,12300000.0
+CO,Westminster,Denver,2011,Adams County,12200000.0
+VT,Burlington,Montpelier,2011,Chittenden County,12154740.0
+PA,Horsham,Philadelphia,2015,Montgomery County,12000000.0
+WI,Delafield,Milwaukee,2014,Waukesha County,12000000.0
+WI,Beloit,Milwaukee,2014,Rock County,12000000.0
+MI,Southfield,Detroit,2015,Oakland County,12000000.0
+OH,Willoughby,Cleveland,2014,Lake County,12000000.0
+TX,College Station,Austin,2014,Brazos County,12000000.0
+CA,Calabasas,Los Angeles,2014,Los Angeles County,12000000.0
+AR,Fayetteville,Fayetteville,2014,Washington County,12000000.0
+SD,Sioux Falls,Sioux Falls,2012,Minnehaha County,12000000.0
+CO,Wheat Ridge,Denver,2015,Jefferson County,12000000.0
+IN,Carmel,Indianapolis,2014,Hamilton County,12000000.0
+FL,Jacksonville,Jacksonville,2013,Duval County,12000000.0
+OH,Akron,Akron - Canton,2013,Summit County,12000000.0
+TX,Katy,Houston,2013,Harris County,12000000.0
+MA,Andover,Boston,2014,Essex County,11892857.0
+CO,Longmont,Denver,2012,Boulder County,11600000.0
+VA,Charlottesville,"Washington, D.C.",2011,Charlottesville (city) County,11435000.0
+VT,Woodstock,VT - Other,2013,Windsor County,11400000.0
+MD,Annapolis,Baltimore,2015,Anne Arundel County,11400000.0
+PA,Berwyn,Philadelphia,2015,Chester County,11400000.0
+CO,Loveland,CO - Other,2014,Larimer County,11000000.0
+CA,Sacramento,Sacramento,2012,Sacramento County,11000000.0
+MA,Maynard,Boston,2011,Middlesex County,10800000.0
+PA,Ambler,Philadelphia,2013,Montgomery County,10600000.0
+MA,Wilbraham,MA - Other,2014,Hampden County,10598871.0
+CA,San Rafael,SF Bay Area,2013,Marin County,10571182.0
+CA,Manhattan Beach,Los Angeles,2014,Los Angeles County,10500000.0
+AR,Rogers,Fayetteville,2013,Benton County,10500000.0
+CA,Agoura Hills,Los Angeles,2015,Los Angeles County,10500000.0
+MA,Framingham,Boston,2013,Middlesex County,10500000.0
+CA,Manhattan Beach,Los Angeles,2012,Los Angeles County,10500000.0
+GA,Suwanee,Atlanta,2015,Gwinnett County,10200000.0
+VA,Fairfax,"Washington, D.C.",2014,Fairfax (city) County,10200000.0
+TX,Kyle,Austin,2012,Hays County,10000000.0
+CA,Walnut,Ontario - Inland Empire,2015,Los Angeles County,10000000.0
+CA,Sausalito,SF Bay Area,2013,Marin County,10000000.0
+MN,Houston,MN - Other,2015,Houston County,10000000.0
+NY,Warwick,New York City,2014,Orange County,10000000.0
+IL,Riverside,Chicago,2015,Cook County,10000000.0
+RI,Wakefield,Providence,2012,Washington County,10000000.0
+CO,Littleton,Denver,2013,Arapahoe County,10000000.0
+CA,Foster City,SF Bay Area,2014,San Mateo County,10000000.0
+CA,Encinitas,San Diego,2014,San Diego County,10000000.0
+WA,Redmond,Seattle,2015,King County,10000000.0
+NC,Cary,Raleigh,2013,Wake County,10000000.0
+PA,Horsham,Philadelphia,2013,Montgomery County,10000000.0
+AZ,Phoenix,Phoenix,2012,Maricopa County,10000000.0
+AZ,Phoenix,Phoenix,2011,Maricopa County,10000000.0
+MA,Marlborough,Boston,2013,Middlesex County,10000000.0
+MO,Saint Louis,St. Louis,2014,St. Louis (city) County,9565842.0
+OR,Ashland,Medford,2014,Jackson County,9500000.0
+CA,Foster City,SF Bay Area,2012,San Mateo County,9420000.0
+NY,Madison,NY - Other,2013,Madison County,9400000.0
+MI,Royal Oak,Detroit,2015,Oakland County,9400000.0
+CA,Aliso Viejo,Anaheim,2013,Orange County,9400000.0
+VA,Sterling,"Washington, D.C.",2013,Loudoun County,9300000.0
+PA,Lansdale,Philadelphia,2011,Montgomery County,9000000.0
+KY,Lexington,Lexington,2014,Fayette County,9000000.0
+NC,Tarboro,Raleigh,2015,Edgecombe County,9000000.0
+PA,Conshohocken,Philadelphia,2015,Montgomery County,9000000.0
+CA,Danville,SF Bay Area,2013,Contra Costa County,9000000.0
+OH,Chagrin Falls,Cleveland,2013,Cuyahoga County,8875000.0
+NJ,North Bergen,Newark,2012,Hudson County,8800000.0
+MA,Wakefield,Boston,2012,Middlesex County,8600000.0
+CO,Arvada,Denver,2012,Jefferson County,8600000.0
+TX,Plano,Dallas,2012,Collin County,8500000.0
+FL,Wesley Chapel,Tampa,2014,Pasco County,8500000.0
+FL,Boca Raton,Palm Beaches,2011,Palm Beach County,8500000.0
+TN,Cordova,Memphis,2013,Shelby County,8382380.0
+OH,Chagrin Falls,Cleveland,2012,Cuyahoga County,8350000.0
+VA,Richmond,Richmond,2014,Richmond (city) County,8300000.0
+VA,Blacksburg,Roanoke,2014,Montgomery County,8200000.0
+WI,Wauwatosa,Milwaukee,2015,Milwaukee County,8200000.0
+NC,Apex,Raleigh,2013,Wake County,8000000.0
+FL,Hollywood,Ft. Lauderdale,2012,Broward County,8000000.0
+OR,Bend,Eugene,2011,Deschutes County,8000000.0
+MA,Somerville,Boston,2014,Middlesex County,8000000.0
+MN,Minnetonka,Minneapolis,2014,Hennepin County,8000000.0
+KS,Topeka,Topeka,2011,Shawnee County,8000000.0
+WA,Tacoma,Seattle,2013,Pierce County,8000000.0
+MO,Kansas City,Kansas City,2013,Jackson County,8000000.0
+SC,Mount Pleasant,"Charleston, South Carolina",2013,Charleston County,8000000.0
+TX,Tyler,Dallas,2015,Smith County,8000000.0
+MD,Scotland,MD - Other,2015,St. Mary's County,8000000.0
+CO,Greenwood Village,Denver,2012,Arapahoe County,8000000.0
+CA,Santa Barbara,Santa Barbara,2011,Santa Barbara County,8000000.0
+MD,College Park,"Washington, D.C.",2014,Prince George's County,7800000.0
+KS,Olathe,Kansas City,2015,Johnson County,7700000.0
+UT,Lindon,Salt Lake City,2014,Utah County,7500000.0
+TN,Franklin,Nashville,2013,Williamson County,7300000.0
+GA,Alpharetta,Atlanta,2011,Fulton County,7100000.0
+CA,Napa,Napa Valley,2012,Napa County,7000200.0
+PA,Doylestown,Philadelphia,2014,Bucks County,7000000.0
+NJ,Morristown,Newark,2011,Morris County,7000000.0
+CA,Livermore,SF Bay Area,2011,Alameda County,7000000.0
+SC,Charleston,"Charleston, South Carolina",2015,Charleston County,7000000.0
+LA,New Orleans,New Orleans,2015,Orleans County,7000000.0
+MN,Mendota,MN - Other,2012,Dakota County,7000000.0
+NE,Omaha,Omaha,2014,Douglas County,7000000.0
+CA,San Luis Obispo,San Luis Obispo,2014,San Luis Obispo County,7000000.0
+IL,Northbrook,Chicago,2015,Cook County,7000000.0
+WA,Bothell,Seattle,2013,King County,7000000.0
+PA,Newtown,Philadelphia,2013,Bucks County,7000000.0
+KS,Kansas City,Kansas City,2013,Wyandotte County,6900000.0
+NY,Buffalo,Buffalo,2014,Erie County,6875000.0
+NJ,Roseland,Newark,2014,Essex County,6813355.0
+CT,Stamford,Hartford,2013,Fairfield County,6808352.0
+CA,Lafayette,SF Bay Area,2014,Contra Costa County,6800000.0
+CA,Hermosa Beach,Los Angeles,2015,Los Angeles County,6800000.0
+WA,Kent,Seattle,2013,King County,6600000.0
+KS,Overland Park,Kansas City,2011,Johnson County,6565000.0
+CA,Danville,SF Bay Area,2015,Contra Costa County,6500000.0
+LA,New Orleans,New Orleans,2011,Orleans County,6275000.0
+AZ,Phoenix,Phoenix,2015,Maricopa County,6000000.0
+MA,Gloucester,Boston,2013,Essex County,6000000.0
+PA,Monroeville,Pittsburgh,2014,Allegheny County,6000000.0
+LA,Lafayette,"Lafayette, Louisiana",2015,Lafayette County,6000000.0
+NJ,South Plainfield,Newark,2013,Middlesex County,6000000.0
+WA,Mercer Island,Seattle,2015,King County,6000000.0
+FL,Oldsmar,Tampa,2011,Pinellas County,6000000.0
+PA,Chalfont,Philadelphia,2015,Bucks County,6000000.0
+PA,Blue Bell,Philadelphia,2012,Montgomery County,6000000.0
+CA,Pasadena,Los Angeles,2012,Los Angeles County,6000000.0
+CA,Oxnard,Santa Barbara,2014,Ventura County,6000000.0
+MD,Chevy Chase,"Washington, D.C.",2014,Montgomery County,6000000.0
+TN,Franklin,Nashville,2014,Williamson County,5898058.0
+OK,Oklahoma City,Oklahoma City,2014,Oklahoma County,5850000.0
+FL,Delray Beach,Palm Beaches,2011,Palm Beach County,5800000.0
+TX,San Antonio,San Antonio,2013,Bexar County,5770255.0
+CA,Beverly Hills,Los Angeles,2012,Los Angeles County,5600000.0
+CA,Emeryville,SF Bay Area,2011,Alameda County,5567940.0
+FL,Fort Lauderdale,Ft. Lauderdale,2015,Broward County,5500000.0
+MO,Columbia,St. Louis,2014,Boone County,5400000.0
+NY,Irvington,NY - Other,2012,Westchester County,5300000.0
+OR,Eugene,Eugene,2015,Lane County,5299830.0
+CT,Trumbull,Hartford,2013,Fairfield County,5200000.0
+IL,Romeoville,Chicago,2011,Will County,5200000.0
+WA,Bellingham,Seattle,2015,Whatcom County,5100000.0
+PA,Chalfont,Philadelphia,2014,Bucks County,5000000.0
+PA,Ambler,Philadelphia,2015,Montgomery County,5000000.0
+PA,Downingtown,Philadelphia,2011,Chester County,5000000.0
+MA,Wellesley,Boston,2014,Norfolk County,5000000.0
+CA,Manhattan Beach,Los Angeles,2011,Los Angeles County,5000000.0
+NY,Saratoga Springs,"Albany, New York",2014,Saratoga County,4900060.0
+FL,Odessa,Tampa,2014,Pasco County,4853100.0
+CO,Louisville,Denver,2014,Boulder County,4800000.0
+VA,Herndon,"Washington, D.C.",2011,Fairfax County,4700001.0
+KY,Louisville,Louisville,2014,Jefferson County,4600000.0
+CA,Brisbane,SF Bay Area,2012,San Mateo County,4600000.0
+MO,Kansas City,Kansas City,2015,Jackson County,4600000.0
+IL,Naperville,Chicago,2014,DuPage County,4600000.0
+MI,Troy,Detroit,2014,Oakland County,4580000.0
+IA,Des Moines,Des Moines,2011,Polk County,4500000.0
+IN,Mishawaka,South Bend,2012,St. Joseph County,4500000.0
+CA,Brisbane,SF Bay Area,2014,San Mateo County,4500000.0
+TX,Irving,Dallas,2012,Dallas County,4500000.0
+SC,Hilton Head Island,Hilton Head Island,2014,Beaufort County,4500000.0
+MA,Beverly,Boston,2012,Essex County,4500000.0
+CA,Moraga,SF Bay Area,2013,Contra Costa County,4500000.0
+PA,Bethlehem,Allentown,2013,Northampton County,4500000.0
+CO,Golden,Denver,2012,Jefferson County,4500000.0
+MA,Marlborough,Boston,2012,Middlesex County,4473148.0
+FL,Cocoa Beach,Florida's Space Coast,2014,Brevard County,4400000.0
+MA,Whitinsville,Boston,2012,Worcester County,4400000.0
+PA,Danville,Scranton,2013,Montour County,4200000.0
+TN,Franklin,Nashville,2012,Williamson County,4100000.0
+CA,Half Moon Bay,SF Bay Area,2015,San Mateo County,4099999.0
+MA,Medford,Boston,2015,Middlesex County,4049999.0
+CA,San Juan Capistrano,"Orange County, California",2015,Orange County,4025000.0
+NJ,Newark,Newark,2013,Essex County,4000000.0
+CA,Livermore,SF Bay Area,2013,Alameda County,4000000.0
+MA,Wilmington,Boston,2015,Middlesex County,4000000.0
+WI,Brookfield,Milwaukee,2011,Waukesha County,4000000.0
+NM,Santa Fe,Albuquerque,2013,Santa Fe County,4000000.0
+MN,Hamel,MN - Other,2014,Hennepin County,4000000.0
+CA,Napa,Napa Valley,2011,Napa County,4000000.0
+PA,Horsham,Philadelphia,2014,Montgomery County,4000000.0
+MA,Gloucester,Boston,2014,Essex County,4000000.0
+CA,Walnut Creek,SF Bay Area,2011,Contra Costa County,4000000.0
+MD,Greenbelt,"Washington, D.C.",2012,Prince George's County,4000000.0
+MA,Ayer,Boston,2014,Middlesex County,4000000.0
+NC,Greensboro,Greensboro,2015,Guilford County,4000000.0
+OH,Wooster,Akron - Canton,2013,Wayne County,4000000.0
+CA,San Bruno,SF Bay Area,2013,San Mateo County,4000000.0
+NJ,Parsippany,Newark,2011,Morris County,4000000.0
+CA,Dublin,SF Bay Area,2015,Alameda County,4000000.0
+NY,Troy,"Albany, New York",2014,Rensselaer County,3972414.0
+IN,Indianapolis,Indianapolis,2013,Marion County,3800000.0
+TN,Chattanooga,Chattanooga,2013,Hamilton County,3750000.0
+OH,New Albany,"Columbus, Ohio",2014,Franklin County,3600000.0
+CO,Louisville,Denver,2013,Boulder County,3600000.0
+OH,Akron,Akron - Canton,2012,Summit County,3600000.0
+PA,Horsham,Philadelphia,2012,Montgomery County,3500000.0
+KS,Wichita,Wichita,2013,Sedgwick County,3500000.0
+TX,Georgetown,Austin,2014,Williamson County,3500000.0
+TX,Carrollton,Dallas,2014,Dallas County,3500000.0
+NY,Valhalla,NY - Other,2013,Westchester County,3300000.0
+NH,Lebanon,"Manchester, New Hampshire",2011,Grafton County,3250000.0
+AZ,Tempe,Phoenix,2012,Maricopa County,3200000.0
+CT,Westport,Hartford,2012,Fairfield County,3100000.0
+TN,Memphis,Memphis,2015,Shelby County,3100000.0
+CT,New Haven,Hartford,2011,New Haven County,3000000.0
+CA,Fullerton,Anaheim,2014,Orange County,3000000.0
+CA,Seal Beach,"Orange County, California",2012,Orange County,3000000.0
+CA,Yorba Linda,Ontario - Inland Empire,2011,Orange County,3000000.0
+VA,Arlington,"Washington, D.C.",2011,Arlington County,3000000.0
+MD,Silver Spring,"Washington, D.C.",2012,Montgomery County,3000000.0
+MD,Chevy Chase,"Washington, D.C.",2013,Montgomery County,3000000.0
+PA,Oakdale,Pittsburgh,2012,Allegheny County,3000000.0
+CA,Mill Valley,SF Bay Area,2014,Marin County,3000000.0
+VA,Williamsburg,"Washington, D.C.",2013,Williamsburg (city) County,3000000.0
+WI,Milwaukee,Milwaukee,2014,Milwaukee County,2900000.0
+OH,Dublin,"Columbus, Ohio",2011,Franklin County,2800000.0
+KY,Lexington,Lexington,2015,Fayette County,2650000.0
+VT,Middlebury,VT - Other,2014,Addison County,2640000.0
+TX,Temple,Austin,2015,Bell County,2500000.0
+PA,Lancaster,Harrisburg,2015,Lancaster County,2500000.0
+CA,Newport Beach,Anaheim,2013,Orange County,2500000.0
+CA,Burbank,Los Angeles,2013,Los Angeles County,2500000.0
+AR,Fayetteville,Fayetteville,2013,Washington County,2500000.0
+NH,Milford,"Manchester, New Hampshire",2012,Hillsborough County,2500000.0
+CA,Sacramento,Sacramento,2014,Sacramento County,2500000.0
+DE,Newark,"Wilmington, Delaware",2014,New Castle County,2500000.0
+VA,Leesburg,"Washington, D.C.",2012,Loudoun County,2500000.0
+MD,Clinton,MD - Other,2014,Prince George's County,2450000.0
+IL,Lincolnwood,Chicago,2014,Cook County,2400000.0
+IL,Hampshire,IL - Other,2015,Kane County,2400000.0
+CA,San Leandro,SF Bay Area,2012,Alameda County,2320000.0
+TN,Chattanooga,Chattanooga,2012,Hamilton County,2250000.0
+TX,Frisco,Dallas,2013,Collin County,2250000.0
+CA,Healdsburg,Napa Valley,2013,Sonoma County,2175000.0
+IN,Fort Wayne,Fort Wayne,2012,Allen County,2100000.0
+ME,Portland,"Portland, Maine",2013,Cumberland County,2000000.0
+AR,Fayetteville,Fayetteville,2015,Washington County,2000000.0
+WA,Redmond,Seattle,2012,King County,2000000.0
+CO,Lafayette,Denver,2012,Boulder County,2000000.0
+CA,Fountain Valley,"Orange County, California",2013,Orange County,2000000.0
+TN,Memphis,Memphis,2014,Shelby County,2000000.0
+WI,River Falls,WI - Other,2014,Pierce County,2000000.0
+NY,Buffalo,Buffalo,2015,Erie County,2000000.0
+NY,Rochester,"Rochester, New York",2013,Monroe County,2000000.0
+MA,Brockton,Boston,2012,Plymouth County,2000000.0
+LA,New Orleans,New Orleans,2013,Orleans County,2000000.0
+TX,Frisco,Dallas,2011,Collin County,2000000.0
+NY,Stony Brook,Long Island,2015,Suffolk County,2000000.0
+MD,Lanham,"Washington, D.C.",2011,Prince George's County,1900000.0
+MO,Kansas City,Kansas City,2012,Jackson County,1900000.0
+NJ,Cedar Knolls,NJ - Other,2014,Morris County,1825000.0
+PA,Paoli,Philadelphia,2011,Chester County,1800000.0
+WA,Kirkland,Seattle,2015,King County,1800000.0
+TN,Franklin,Nashville,2011,Williamson County,1655701.0
+CT,Shelton,Hartford,2013,Fairfield County,1600000.0
+CA,Roseville,Sacramento,2015,Placer County,1500000.0
+OK,Oklahoma City,Oklahoma City,2015,Oklahoma County,1500000.0
+CA,Encinitas,San Diego,2011,San Diego County,1500000.0
+LA,New Orleans,New Orleans,2012,Orleans County,1500000.0
+NJ,Moorestown,NJ - Other,2011,Burlington County,1500000.0
+FL,Tampa,Tampa,2013,Hillsborough County,1500000.0
+PA,Doylestown,Philadelphia,2013,Bucks County,1500000.0
+NH,Lebanon,"Manchester, New Hampshire",2013,Grafton County,1500000.0
+AL,Madison,Huntsville,2012,Madison County,1400000.0
+RI,Providence,Providence,2015,Providence County,1400000.0
+WI,Grafton,Milwaukee,2014,Ozaukee County,1364259.0
+MD,Potomac,"Washington, D.C.",2011,Montgomery County,1300000.0
+TN,Chattanooga,Chattanooga,2015,Hamilton County,1200000.0
+MD,Annapolis,Baltimore,2013,Anne Arundel County,1135000.0
+KS,Prairie Village,KS - Other,2011,Johnson County,1100000.0
+PA,Oakdale,Pittsburgh,2011,Allegheny County,1100000.0
+GA,Marietta,Atlanta,2011,Cobb County,1100000.0
+NE,Lincoln,Omaha,2012,Lancaster County,1100000.0
+NE,Kearney,NE - Other,2015,Buffalo County,1100000.0
+WA,Stevenson,WA - Other,2012,Skamania County,1000000.0
+TN,Memphis,Memphis,2013,Shelby County,1000000.0
+SD,Sioux Falls,Sioux Falls,2015,Minnehaha County,1000000.0
+CA,Costa Mesa,Anaheim,2012,Orange County,1000000.0
+MI,East Lansing,Lansing,2013,Ingham County,1000000.0
+OH,Solon,Cleveland,2012,Cuyahoga County,1000000.0
+NY,Rochester,"Rochester, New York",2014,Monroe County,1000000.0
+CA,Healdsburg,Napa Valley,2014,Sonoma County,1000000.0
+UT,Draper,Salt Lake City,2013,Salt Lake County,1000000.0
+FL,Coral Gables,Miami,2014,Miami-Dade County,1000000.0
+CO,Greenwood Village,Denver,2011,Arapahoe County,986842.0
+SC,Greenville,Greenville - Spartanburg,2013,Greenville County,900000.0
+FL,Maitland,Orlando,2011,Orange County,900000.0
+MI,Detroit,Detroit,2011,Wayne County,900000.0
+VA,Charlottesville,"Washington, D.C.",2014,Charlottesville (city) County,850000.0
+TN,Knoxville,Knoxville,2014,Knox County,800000.0
+CA,Walnut,Ontario - Inland Empire,2014,Los Angeles County,800000.0
+OH,Perrysburg,Toledo,2012,Wood County,750000.0
+OK,Tulsa,Tulsa,2013,Tulsa County,750000.0
+KS,Prairie Village,KS - Other,2012,Johnson County,650000.0
+IL,Elmhurst,Chicago,2014,DuPage County,645000.0
+WA,Spokane,Spokane,2014,Spokane County,602400.0
+NE,Omaha,Omaha,2013,Douglas County,550000.0
+IL,Champaign,"Springfield, Illinois",2014,Champaign County,525000.0
+MI,Grand Rapids,Grand Rapids,2012,Kent County,521667.0
+TX,Richardson,Dallas,2012,Dallas County,500000.0
+OK,Edmond,Oklahoma City,2013,Oklahoma County,500000.0
+FL,Tallahassee,Tallahassee,2012,Leon County,500000.0
+CT,North Haven,Hartford,2012,New Haven County,500000.0
+MI,Detroit,Detroit,2012,Wayne County,450000.0
+VA,Charlottesville,"Washington, D.C.",2012,Charlottesville (city) County,450000.0
+IL,Champaign,"Springfield, Illinois",2012,Champaign County,435000.0
+OR,Wilsonville,"Portland, Oregon",2014,Clackamas County,290870.0
+IL,Schaumburg,Chicago,2012,Cook County,276686.0
+IL,Champaign,"Springfield, Illinois",2011,Champaign County,260000.0
+TX,Spring,Houston,2011,Harris County,200000.0
+KS,Olathe,Kansas City,2013,Johnson County,170000.0
+IL,Peoria,Peoria,2014,Peoria County,100000.0

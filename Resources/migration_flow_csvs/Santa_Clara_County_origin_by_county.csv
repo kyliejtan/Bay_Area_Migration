@@ -1,0 +1,610 @@
+Origin State,Origin County,Count
+Massachusetts,Middlesex County,26
+Minnesota,Hennepin County,11
+Pennsylvania,Montgomery County,10
+Pennsylvania,Allegheny County,8
+New Jersey,Bergen County,8
+New York,Monroe County,7
+Connecticut,Fairfield County,7
+Connecticut,Hartford County,7
+New York,Westchester County,7
+Massachusetts,Essex County,7
+New Jersey,Hudson County,7
+Michigan,Oakland County,7
+New York,Dutchess County,6
+Maine,Cumberland County,6
+Massachusetts,Worcester County,6
+New Jersey,Mercer County,6
+New Jersey,Morris County,6
+Pennsylvania,Delaware County,6
+New Jersey,Middlesex County,6
+Pennsylvania,Chester County,6
+New Jersey,Monmouth County,6
+New Hampshire,Hillsborough County,5
+Michigan,Ingham County,5
+Connecticut,New Haven County,5
+Massachusetts,Norfolk County,5
+Michigan,Washtenaw County,5
+Pennsylvania,Cumberland County,5
+Wisconsin,Milwaukee County,5
+New York,Tompkins County,5
+New York,Suffolk County,4
+Connecticut,New London County,4
+Pennsylvania,York County,4
+Wisconsin,Brown County,4
+New Hampshire,Grafton County,4
+New York,Nassau County,4
+Michigan,Macomb County,4
+Maine,York County,4
+Massachusetts,Hampshire County,4
+Minnesota,Anoka County,3
+New York,Schenectady County,3
+Michigan,Muskegon County,3
+New York,Allegany County,3
+Michigan,Wayne County,3
+New York,Cortland County,3
+Rhode Island,Kent County,3
+New York,Onondaga County,3
+New Jersey,Somerset County,3
+Rhode Island,Providence County,3
+Minnesota,Dakota County,3
+Minnesota,Stearns County,3
+New York,Jefferson County,3
+Minnesota,Olmsted County,3
+New York,Erie County,3
+Michigan,Kalamazoo County,3
+Michigan,Kent County,3
+Massachusetts,Bristol County,3
+Pennsylvania,Fayette County,3
+Michigan,Bay County,3
+Pennsylvania,Beaver County,3
+Pennsylvania,Erie County,3
+Vermont,Chittenden County,3
+Massachusetts,Franklin County,3
+Michigan,Eaton County,3
+New Jersey,Camden County,3
+Massachusetts,Berkshire County,3
+New Jersey,Essex County,3
+Wisconsin,Dane County,3
+Wisconsin,Rock County,3
+Pennsylvania,Centre County,3
+New York,Cayuga County,3
+Pennsylvania,Westmoreland County,3
+Massachusetts,Plymouth County,3
+New Jersey,Sussex County,2
+Pennsylvania,Adams County,2
+New Jersey,Union County,2
+New Jersey,Passaic County,2
+New Jersey,Burlington County,2
+New York,Albany County,2
+New Jersey,Cape May County,2
+New York,Bronx County,2
+Pennsylvania,Bucks County,2
+Connecticut,Litchfield County,2
+New Hampshire,Belknap County,2
+Pennsylvania,Butler County,2
+Connecticut,Middlesex County,2
+Pennsylvania,Lancaster County,2
+Pennsylvania,Lebanon County,2
+New Hampshire,Merrimack County,2
+Pennsylvania,Lehigh County,2
+Pennsylvania,Monroe County,2
+Rhode Island,Newport County,2
+Pennsylvania,Northampton County,2
+New Hampshire,Rockingham County,2
+New Hampshire,Strafford County,2
+Pennsylvania,Philadelphia County,2
+Pennsylvania,Union County,2
+New York,Broome County,2
+Wisconsin,Winnebago County,2
+New York,Chautauqua County,2
+Minnesota,Chippewa County,2
+New York,Chemung County,2
+Michigan,Livingston County,2
+Vermont,Addison County,2
+Vermont,Windsor County,2
+Michigan,Iosco County,2
+Michigan,Houghton County,2
+Michigan,Hillsdale County,2
+Michigan,Grand Traverse County,2
+Michigan,Genesee County,2
+Michigan,Clinton County,2
+Michigan,Calhoun County,2
+Michigan,Berrien County,2
+Massachusetts,Suffolk County,2
+Massachusetts,Nantucket County,2
+Massachusetts,Hampden County,2
+Massachusetts,Dukes County,2
+Massachusetts,Barnstable County,2
+New York,Ulster County,2
+Maine,Washington County,2
+Maine,Oxford County,2
+Maine,Kennebec County,2
+Maine,Androscoggin County,2
+Wisconsin,Kenosha County,2
+Wisconsin,Manitowoc County,2
+Wisconsin,Racine County,2
+Minnesota,Carver County,2
+Minnesota,Blue Earth County,2
+Minnesota,Chisago County,2
+New York,Steuben County,2
+New York,Clinton County,2
+New York,Kings County,2
+Minnesota,Clay County,2
+New York,New York County,2
+New York,Orange County,2
+New York,Queens County,2
+New York,Rensselaer County,2
+New York,Saratoga County,2
+Wisconsin,Waukesha County,2
+Minnesota,Washington County,2
+Minnesota,St. Louis County,2
+Minnesota,Scott County,2
+Minnesota,Rice County,2
+Minnesota,Ramsey County,2
+Minnesota,Kandiyohi County,2
+Minnesota,Nicollet County,2
+Minnesota,Wadena County,2
+Indiana,Clark County,1
+Illinois,Will County,1
+Illinois,Ogle County,1
+Illinois,Woodford County,1
+Indiana,Allen County,1
+Illinois,Rock Island County,1
+Indiana,Hamilton County,1
+Illinois,Peoria County,1
+Illinois,Tazewell County,1
+Illinois,Vermilion County,1
+Indiana,Henry County,1
+Indiana,Johnson County,1
+Indiana,Lake County,1
+Indiana,Marion County,1
+Iowa,Fayette County,1
+Indiana,Monroe County,1
+Kentucky,Jefferson County,1
+Kansas,Ford County,1
+Kansas,Geary County,1
+Kansas,Johnson County,1
+Kansas,Riley County,1
+Kansas,Sedgwick County,1
+Kansas,Wyandotte County,1
+Kentucky,Boone County,1
+Kentucky,Fayette County,1
+Kentucky,Hardin County,1
+Kentucky,Scott County,1
+Indiana,Morgan County,1
+Louisiana,Beauregard Parish,1
+Louisiana,Caddo Parish,1
+Louisiana,Calcasieu Parish,1
+Louisiana,Concordia Parish,1
+Louisiana,East Baton Rouge Parish,1
+Louisiana,Jefferson Parish,1
+Louisiana,Lafayette Parish,1
+Louisiana,Orleans Parish,1
+Louisiana,St. Landry Parish,1
+Kansas,Douglas County,1
+Iowa,Warren County,1
+Iowa,Story County,1
+Iowa,Scott County,1
+Indiana,St. Joseph County,1
+Indiana,Tippecanoe County,1
+Indiana,Vanderburgh County,1
+Indiana,Vigo County,1
+Indiana,Warrick County,1
+Iowa,Boone County,1
+Iowa,Carroll County,1
+Iowa,Clarke County,1
+Iowa,Clay County,1
+Illinois,McLean County,1
+Iowa,Franklin County,1
+Iowa,Henry County,1
+Iowa,Jefferson County,1
+Iowa,Johnson County,1
+Iowa,Jones County,1
+Iowa,Linn County,1
+Iowa,Page County,1
+Iowa,Polk County,1
+Iowa,Poweshiek County,1
+Illinois,Montgomery County,1
+Hawaii,Hawaii County,1
+Illinois,McHenry County,1
+California,Placer County,1
+California,Nevada County,1
+California,Napa County,1
+California,Monterey County,1
+California,Mono County,1
+California,Merced County,1
+California,Mendocino County,1
+California,Mariposa County,1
+California,Marin County,1
+California,Madera County,1
+California,Los Angeles County,1
+California,Lassen County,1
+California,Lake County,1
+California,Kings County,1
+California,Kern County,1
+California,Imperial County,1
+California,Humboldt County,1
+California,Glenn County,1
+California,Orange County,1
+California,Plumas County,1
+California,El Dorado County,1
+California,Riverside County,1
+California,Tehama County,1
+California,Sutter County,1
+California,Stanislaus County,1
+California,Sonoma County,1
+California,Solano County,1
+California,Siskiyou County,1
+California,Shasta County,1
+California,Santa Cruz County,1
+California,Santa Barbara County,1
+California,San Mateo County,1
+California,San Luis Obispo County,1
+California,San Joaquin County,1
+California,San Francisco County,1
+California,San Diego County,1
+California,San Bernardino County,1
+California,San Benito County,1
+California,Sacramento County,1
+California,Fresno County,1
+California,Del Norte County,1
+Illinois,McDonough County,1
+Arizona,Mohave County,1
+Arizona,Coconino County,1
+Arizona,Cochise County,1
+Arizona,Apache County,1
+Alaska,Valdez-Cordova Census Area,1
+Alaska,Sitka City and Borough,1
+Alaska,Kenai Peninsula Borough,1
+Alaska,Anchorage Municipality,1
+Alaska,Aleutians West Census Area,1
+Alabama,Tuscaloosa County,1
+Alabama,Shelby County,1
+Alabama,Mobile County,1
+Alabama,Madison County,1
+Alabama,Macon County,1
+Alabama,Lee County,1
+Alabama,Lauderdale County,1
+Alabama,Jefferson County,1
+Alabama,Calhoun County,1
+Arizona,Maricopa County,1
+Arizona,Pima County,1
+California,Contra Costa County,1
+Arizona,Pinal County,1
+California,Colusa County,1
+California,Calaveras County,1
+California,Butte County,1
+California,Amador County,1
+California,Alameda County,1
+Arkansas,Washington County,1
+Arkansas,Sebastian County,1
+Arkansas,Phillips County,1
+Arkansas,Logan County,1
+Arkansas,Jefferson County,1
+Arkansas,Hot Spring County,1
+Arkansas,Faulkner County,1
+Arkansas,Desha County,1
+Arkansas,Boone County,1
+Arkansas,Benton County,1
+Arizona,Yuma County,1
+Arizona,Yavapai County,1
+California,Trinity County,1
+California,Tulare County,1
+California,Tuolumne County,1
+Georgia,Lowndes County,1
+Georgia,Houston County,1
+Georgia,Henry County,1
+Georgia,Gwinnett County,1
+Georgia,Fulton County,1
+Georgia,Floyd County,1
+Georgia,Fayette County,1
+Georgia,DeKalb County,1
+Georgia,Cobb County,1
+Georgia,Clarke County,1
+Georgia,Chatham County,1
+Georgia,Carroll County,1
+Georgia,Bulloch County,1
+Florida,Volusia County,1
+Florida,Sumter County,1
+Florida,St. Lucie County,1
+Florida,Seminole County,1
+Florida,Santa Rosa County,1
+Georgia,Liberty County,1
+Georgia,Richmond County,1
+California,Ventura County,1
+Louisiana,St. Tammany Parish,1
+Illinois,Madison County,1
+Illinois,Lake County,1
+Illinois,Kane County,1
+Illinois,DuPage County,1
+Illinois,Cook County,1
+Illinois,Champaign County,1
+Idaho,Payette County,1
+Idaho,Nez Perce County,1
+Idaho,Madison County,1
+Idaho,Kootenai County,1
+Idaho,Canyon County,1
+Idaho,Bingham County,1
+Idaho,Bannock County,1
+Idaho,Ada County,1
+Hawaii,Maui County,1
+Hawaii,Kauai County,1
+Hawaii,Honolulu County,1
+Florida,Polk County,1
+Florida,Pinellas County,1
+Florida,Pasco County,1
+Florida,Palm Beach County,1
+Colorado,Pitkin County,1
+Colorado,Montezuma County,1
+Colorado,Mesa County,1
+Colorado,Logan County,1
+Colorado,Larimer County,1
+Colorado,Jefferson County,1
+Colorado,El Paso County,1
+Colorado,Douglas County,1
+Colorado,Denver County,1
+Colorado,Cheyenne County,1
+Colorado,Chaffee County,1
+Colorado,Broomfield County,1
+Colorado,Boulder County,1
+Colorado,Arapahoe County,1
+Colorado,Adams County,1
+California,Yuba County,1
+California,Yolo County,1
+Colorado,Pueblo County,1
+Colorado,Routt County,1
+Colorado,Weld County,1
+Florida,Hillsborough County,1
+Florida,Orange County,1
+Florida,Okaloosa County,1
+Florida,Monroe County,1
+Florida,Miami-Dade County,1
+Florida,Leon County,1
+Florida,Lee County,1
+Florida,Indian River County,1
+Florida,Escambia County,1
+Delaware,New Castle County,1
+Florida,Duval County,1
+Florida,Collier County,1
+Florida,Broward County,1
+Florida,Brevard County,1
+Florida,Alachua County,1
+District of Columbia,District of Columbia,1
+Delaware,Sussex County,1
+Louisiana,St. Martin Parish,1
+Mississippi,Lafayette County,1
+Louisiana,Terrebonne Parish,1
+Texas,Fort Bend County,1
+Texas,Austin County,1
+Texas,Bell County,1
+Texas,Bexar County,1
+Texas,Brazoria County,1
+Texas,Brazos County,1
+Texas,Childress County,1
+Texas,Clay County,1
+Texas,Collin County,1
+Texas,Concho County,1
+Texas,Dallas County,1
+Texas,Denton County,1
+Texas,El Paso County,1
+Texas,Galveston County,1
+Texas,Reeves County,1
+Texas,Harris County,1
+Texas,Hays County,1
+Texas,Hidalgo County,1
+Texas,Hutchinson County,1
+Texas,Limestone County,1
+Texas,Lubbock County,1
+Texas,Marion County,1
+Texas,Maverick County,1
+Texas,McLennan County,1
+Texas,Medina County,1
+Texas,Montgomery County,1
+Texas,Nolan County,1
+Texas,Atascosa County,1
+Tennessee,Williamson County,1
+Tennessee,Shelby County,1
+Tennessee,Rhea County,1
+Puerto Rico,San Juan Municipio,1
+STATE2_NAME,COUNTY2_NAME,1
+South Carolina,Aiken County,1
+South Carolina,Anderson County,1
+South Carolina,Beaufort County,1
+South Carolina,Berkeley County,1
+South Carolina,Charleston County,1
+South Carolina,Dorchester County,1
+South Carolina,Greenville County,1
+South Carolina,Jasper County,1
+South Carolina,Richland County,1
+South Carolina,Sumter County,1
+South Dakota,Brookings County,1
+South Dakota,Brown County,1
+South Dakota,Codington County,1
+South Dakota,Union County,1
+Tennessee,Davidson County,1
+Tennessee,Dickson County,1
+Tennessee,Hamilton County,1
+Tennessee,Knox County,1
+Tennessee,Lake County,1
+Tennessee,Maury County,1
+Tennessee,Monroe County,1
+Tennessee,Obion County,1
+Tennessee,Putnam County,1
+Texas,Nueces County,1
+Texas,Smith County,1
+Louisiana,Vernon Parish,1
+Washington,King County,1
+Virginia,Norfolk city,1
+Virginia,Prince William County,1
+Virginia,Richmond city,1
+Virginia,Roanoke city,1
+Virginia,Virginia Beach city,1
+Virginia,York County,1
+Washington,Benton County,1
+Washington,Clallam County,1
+Washington,Clark County,1
+Washington,Franklin County,1
+Washington,Grays Harbor County,1
+Washington,Island County,1
+Washington,Kitsap County,1
+Texas,Tarrant County,1
+Washington,Kittitas County,1
+Washington,Pierce County,1
+Washington,Skagit County,1
+Washington,Snohomish County,1
+Washington,Spokane County,1
+Washington,Thurston County,1
+Washington,Walla Walla County,1
+Washington,Whatcom County,1
+Washington,Whitman County,1
+Washington,Yakima County,1
+West Virginia,McDowell County,1
+West Virginia,Putnam County,1
+Virginia,Newport News city,1
+Virginia,Martinsville city,1
+Virginia,Lynchburg city,1
+Virginia,Loudoun County,1
+Texas,Travis County,1
+Texas,Uvalde County,1
+Texas,Washington County,1
+Texas,Wichita County,1
+Texas,Williamson County,1
+Utah,Cache County,1
+Utah,Davis County,1
+Utah,Iron County,1
+Utah,Salt Lake County,1
+Utah,San Juan County,1
+Utah,Summit County,1
+Utah,Utah County,1
+Utah,Wasatch County,1
+Utah,Washington County,1
+Utah,Weber County,1
+Virginia,Albemarle County,1
+Virginia,Alexandria city,1
+Virginia,Amherst County,1
+Virginia,Arlington County,1
+Virginia,Charlottesville city,1
+Virginia,Chesterfield County,1
+Virginia,Essex County,1
+Virginia,Fairfax County,1
+Virginia,Hampton city,1
+Virginia,Henrico County,1
+Puerto Rico,Guaynabo Municipio,1
+Puerto Rico,Bayam�n Municipio,1
+Oregon,Yamhill County,1
+Nevada,Lyon County,1
+Montana,Lewis and Clark County,1
+Montana,Missoula County,1
+Montana,Yellowstone County,1
+Nebraska,Douglas County,1
+Nebraska,Lancaster County,1
+Nebraska,Sarpy County,1
+Nevada,Carson City,1
+Nevada,Churchill County,1
+Nevada,Clark County,1
+Nevada,Douglas County,1
+Nevada,Elko County,1
+Nevada,Humboldt County,1
+Nevada,Nye County,1
+Oregon,Washington County,1
+Nevada,Washoe County,1
+New Mexico,Bernalillo County,1
+New Mexico,Chaves County,1
+New Mexico,Do�a Ana County,1
+New Mexico,Otero County,1
+New Mexico,Quay County,1
+New Mexico,Rio Arriba County,1
+New Mexico,San Juan County,1
+New Mexico,Sandoval County,1
+New Mexico,Santa Fe County,1
+North Carolina,Alamance County,1
+North Carolina,Buncombe County,1
+Montana,Lake County,1
+Montana,Hill County,1
+Montana,Gallatin County,1
+Montana,Flathead County,1
+Maryland,Allegany County,1
+Maryland,Anne Arundel County,1
+Maryland,Baltimore County,1
+Maryland,Baltimore city,1
+Maryland,Howard County,1
+Maryland,Montgomery County,1
+Maryland,Prince George's County,1
+Mississippi,Harrison County,1
+Mississippi,Hinds County,1
+Mississippi,Jones County,1
+Mississippi,Lauderdale County,1
+Mississippi,Tallahatchie County,1
+Missouri,Boone County,1
+Missouri,Greene County,1
+Missouri,Howell County,1
+Missouri,Jackson County,1
+Missouri,Lawrence County,1
+Missouri,Phelps County,1
+Missouri,Pulaski County,1
+Missouri,St. Louis County,1
+Missouri,St. Louis city,1
+Missouri,Webster County,1
+Montana,Beaverhead County,1
+Montana,Cascade County,1
+Montana,Custer County,1
+North Carolina,Carteret County,1
+North Carolina,Chatham County,1
+North Carolina,Craven County,1
+Ohio,Logan County,1
+Ohio,Lucas County,1
+Ohio,Montgomery County,1
+Ohio,Stark County,1
+Ohio,Wood County,1
+Oklahoma,Beckham County,1
+Oklahoma,Cleveland County,1
+Oklahoma,Comanche County,1
+Oklahoma,Garfield County,1
+Oklahoma,Jackson County,1
+Oklahoma,Logan County,1
+Oklahoma,McClain County,1
+Oklahoma,Oklahoma County,1
+Oklahoma,Payne County,1
+Oklahoma,Tulsa County,1
+Oregon,Benton County,1
+Oregon,Clackamas County,1
+Oregon,Deschutes County,1
+Oregon,Douglas County,1
+Oregon,Jackson County,1
+Oregon,Josephine County,1
+Oregon,Klamath County,1
+Oregon,Lane County,1
+Oregon,Malheur County,1
+Oregon,Marion County,1
+Oregon,Multnomah County,1
+Ohio,Lorain County,1
+Ohio,Licking County,1
+North Carolina,Cumberland County,1
+Ohio,Hamilton County,1
+North Carolina,Durham County,1
+North Carolina,Forsyth County,1
+North Carolina,Guilford County,1
+North Carolina,Henderson County,1
+North Carolina,Iredell County,1
+North Carolina,Johnston County,1
+North Carolina,Lincoln County,1
+North Carolina,Mecklenburg County,1
+North Carolina,Moore County,1
+North Carolina,Nash County,1
+North Carolina,Onslow County,1
+North Carolina,Orange County,1
+North Carolina,Pamlico County,1
+North Carolina,Richmond County,1
+North Carolina,Union County,1
+North Carolina,Wake County,1
+North Carolina,Wayne County,1
+North Dakota,Cass County,1
+North Dakota,Stutsman County,1
+Ohio,Butler County,1
+Ohio,Champaign County,1
+Ohio,Cuyahoga County,1
+Ohio,Erie County,1
+Ohio,Franklin County,1
+Ohio,Greene County,1
+Alabama,Autauga County,1
